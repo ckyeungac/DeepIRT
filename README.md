@@ -4,7 +4,7 @@ This is the repository for the code in the paper *Deep-IRT: Make Deep Learning B
 If you find this repository useful, please cite
 ```
 @inproceedings{EDM2019_Yeung_DeepIRT,
-  title={Addressing two problems in deep knowledge tracing via prediction-consistent regularization},
+  title={Deep-IRT: Make deep learning based knowledge tracing explainable using item response theory},
   author={Yeung, Chun Kit},
   year={2019},
   booktitle = {{Proceedings of the 12th International Conference on Educational Data Mining}},
