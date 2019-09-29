@@ -1,0 +1,2267 @@
+dataset_question_id,question_id,concept_name
+1,11172,10.1 Angles in Intersecting and Parallel Lines
+2,11612,13.1 Significant Figures
+3,11610,13.1 Significant Figures
+4,11592,13.1 Significant Figures
+5,11624,13.2 Approximation and Errors in Measurement
+6,11616,13.1 Significant Figures
+7,11611,13.1 Significant Figures
+8,11608,13.1 Significant Figures
+9,11609,13.1 Significant Figures
+10,11618,13.1 Significant Figures
+11,11598,13.1 Significant Figures
+12,11625,13.2 Approximation and Errors in Measurement
+13,11593,13.1 Significant Figures
+14,11594,13.1 Significant Figures
+15,11597,13.1 Significant Figures
+16,11596,13.1 Significant Figures
+17,11591,13.1 Significant Figures
+18,11613,13.1 Significant Figures
+19,11614,13.1 Significant Figures
+20,11615,13.1 Significant Figures
+21,11617,13.1 Significant Figures
+22,11600,13.1 Significant Figures
+23,11619,13.1 Significant Figures
+24,11604,13.1 Significant Figures
+25,11599,13.1 Significant Figures
+26,11602,13.1 Significant Figures
+27,11606,13.1 Significant Figures
+28,11620,13.1 Significant Figures
+29,11603,13.1 Significant Figures
+30,11605,13.1 Significant Figures
+31,11622,13.1 Significant Figures
+32,11601,13.1 Significant Figures
+33,11621,13.1 Significant Figures
+34,11650,13.2 Approximation and Errors in Measurement
+35,11644,13.2 Approximation and Errors in Measurement
+36,11640,13.2 Approximation and Errors in Measurement
+37,11646,13.2 Approximation and Errors in Measurement
+38,15506,19.3 Misuses of Statistical Diagrams
+39,15509,19.3 Misuses of Statistical Diagrams
+40,11641,13.2 Approximation and Errors in Measurement
+41,11642,13.2 Approximation and Errors in Measurement
+42,11645,13.2 Approximation and Errors in Measurement
+43,15517,19.3 Misuses of Statistical Diagrams
+44,11647,13.2 Approximation and Errors in Measurement
+45,15499,19.3 Misuses of Statistical Diagrams
+46,11648,13.2 Approximation and Errors in Measurement
+47,11649,13.2 Approximation and Errors in Measurement
+48,11652,13.2 Approximation and Errors in Measurement
+49,11653,13.2 Approximation and Errors in Measurement
+50,11654,13.2 Approximation and Errors in Measurement
+51,15508,19.3 Misuses of Statistical Diagrams
+52,11655,13.2 Approximation and Errors in Measurement
+53,11657,13.2 Approximation and Errors in Measurement
+54,11658,13.2 Approximation and Errors in Measurement
+55,12060,14.1 Index Notation
+56,12064,14.1 Index Notation
+57,12067,14.1 Index Notation
+58,12071,14.1 Index Notation
+59,12072,14.1 Index Notation
+60,13920,14.2 Laws of Indices
+61,13921,14.2 Laws of Indices
+62,13922,14.2 Laws of Indices
+63,13923,14.2 Laws of Indices
+64,13924,14.2 Laws of Indices
+65,13925,14.2 Laws of Indices
+66,13926,14.2 Laws of Indices
+67,13927,14.2 Laws of Indices
+68,14424,14.2 Laws of Indices
+69,14426,14.2 Laws of Indices
+70,14428,14.2 Laws of Indices
+71,14430,14.2 Laws of Indices
+72,14431,14.2 Laws of Indices
+73,14433,14.2 Laws of Indices
+74,14434,14.2 Laws of Indices
+75,14469,14.3 Polynomials
+76,14470,14.3 Polynomials
+77,14471,14.3 Polynomials
+78,15498,19.3 Misuses of Statistical Diagrams
+79,14472,14.3 Polynomials
+80,14473,14.3 Polynomials
+81,14474,14.3 Polynomials
+82,14475,14.3 Polynomials
+83,14476,14.3 Polynomials
+84,14477,14.3 Polynomials
+85,14478,14.3 Polynomials
+86,14479,14.3 Polynomials
+87,15505,19.3 Misuses of Statistical Diagrams
+88,12271,15.1 Meaning of Identities
+89,12282,15.1 Meaning of Identities
+90,12323,15.1 Meaning of Identities
+91,12337,15.1 Meaning of Identities
+92,12356,15.1 Meaning of Identities
+93,12349,15.1 Meaning of Identities
+94,12399,15.1 Meaning of Identities
+95,12076,14.1 Index Notation
+96,11772,3.4 Discount
+97,11781,3.4 Discount
+98,11759,3.4 Discount
+99,11768,3.4 Discount
+100,11765,3.4 Discount
+101,12477,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+102,12478,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+103,12483,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+104,12502,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+105,12482,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+106,11797,3.5 Simple Interest
+107,12476,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+108,12480,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+109,12474,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+110,12479,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+111,12475,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+112,12493,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+113,12485,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+114,12492,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+115,12491,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+116,12484,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+117,12481,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+118,12498,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+119,12488,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+120,12489,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+121,12499,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+122,12494,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+123,12487,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+124,12503,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+125,12497,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+126,12495,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+127,12496,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+128,12501,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+129,12486,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+130,12500,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+131,12490,17.4 Solving Simultaneous Linear Equations by Method of Elimination
+132,14484,14.3 Polynomials
+133,14493,14.3 Polynomials
+134,12246,14.4 Addition and Subtraction of Polynomials
+135,12248,14.4 Addition and Subtraction of Polynomials
+136,12821,14.5 Multiplication of Polynomials
+137,12831,14.5 Multiplication of Polynomials
+138,12823,14.5 Multiplication of Polynomials
+139,12827,14.5 Multiplication of Polynomials
+140,12825,14.5 Multiplication of Polynomials
+141,12288,19.1 Organization of Continuous Data
+142,12073,14.1 Index Notation
+143,12516,19.1 Organization of Continuous Data
+144,12718,14.6 Simple Factorization of Polynomials
+145,11623,13.2 Approximation and Errors in Measurement
+146,11627,13.2 Approximation and Errors in Measurement
+147,11635,13.2 Approximation and Errors in Measurement
+148,11638,13.2 Approximation and Errors in Measurement
+149,11636,13.2 Approximation and Errors in Measurement
+150,11633,13.2 Approximation and Errors in Measurement
+151,11634,13.2 Approximation and Errors in Measurement
+152,11631,13.2 Approximation and Errors in Measurement
+153,11628,13.2 Approximation and Errors in Measurement
+154,11632,13.2 Approximation and Errors in Measurement
+155,11639,13.2 Approximation and Errors in Measurement
+156,12038,18.2 Ratio
+157,12074,14.1 Index Notation
+158,11626,13.2 Approximation and Errors in Measurement
+159,12278,14.4 Addition and Subtraction of Polynomials
+160,14485,14.3 Polynomials
+161,14435,14.2 Laws of Indices
+162,14442,14.2 Laws of Indices
+163,14443,14.2 Laws of Indices
+164,11630,13.2 Approximation and Errors in Measurement
+165,14486,14.3 Polynomials
+166,14487,14.3 Polynomials
+167,15501,19.3 Misuses of Statistical Diagrams
+168,14483,14.3 Polynomials
+169,14494,14.3 Polynomials
+170,11853,1.1 The Concept and Applications of Directed Numbers
+171,11831,1.1 The Concept and Applications of Directed Numbers
+172,11832,1.1 The Concept and Applications of Directed Numbers
+173,11833,1.1 The Concept and Applications of Directed Numbers
+174,11834,1.1 The Concept and Applications of Directed Numbers
+175,11825,1.1 The Concept and Applications of Directed Numbers
+176,11827,1.1 The Concept and Applications of Directed Numbers
+177,11829,1.1 The Concept and Applications of Directed Numbers
+178,11848,1.1 The Concept and Applications of Directed Numbers
+179,11835,1.1 The Concept and Applications of Directed Numbers
+180,11843,1.1 The Concept and Applications of Directed Numbers
+181,11844,1.1 The Concept and Applications of Directed Numbers
+182,11845,1.1 The Concept and Applications of Directed Numbers
+183,11846,1.1 The Concept and Applications of Directed Numbers
+184,11847,1.1 The Concept and Applications of Directed Numbers
+185,11905,1.3 Multiplication and Division of Directed Numbers
+186,11826,1.1 The Concept and Applications of Directed Numbers
+187,11903,1.3 Multiplication and Division of Directed Numbers
+188,11860,1.2 Addition and Subtraction of Directed Numbers
+189,11902,1.3 Multiplication and Division of Directed Numbers
+190,11901,1.3 Multiplication and Division of Directed Numbers
+191,11828,1.1 The Concept and Applications of Directed Numbers
+192,11906,1.3 Multiplication and Division of Directed Numbers
+193,11896,1.3 Multiplication and Division of Directed Numbers
+194,11852,1.1 The Concept and Applications of Directed Numbers
+195,11850,1.1 The Concept and Applications of Directed Numbers
+196,11876,1.2 Addition and Subtraction of Directed Numbers
+197,11883,1.2 Addition and Subtraction of Directed Numbers
+198,11849,1.1 The Concept and Applications of Directed Numbers
+199,11865,1.2 Addition and Subtraction of Directed Numbers
+200,11425,2.3 Application Problems in One Unknown Equations
+201,11444,2.3 Application Problems in One Unknown Equations
+202,11882,1.2 Addition and Subtraction of Directed Numbers
+203,11897,1.3 Multiplication and Division of Directed Numbers
+204,11921,1.3 Multiplication and Division of Directed Numbers
+205,11442,2.3 Application Problems in One Unknown Equations
+206,11838,1.1 The Concept and Applications of Directed Numbers
+207,11837,1.1 The Concept and Applications of Directed Numbers
+208,11854,1.1 The Concept and Applications of Directed Numbers
+209,11855,1.1 The Concept and Applications of Directed Numbers
+210,11839,1.1 The Concept and Applications of Directed Numbers
+211,11840,1.1 The Concept and Applications of Directed Numbers
+212,11866,1.2 Addition and Subtraction of Directed Numbers
+213,11868,1.2 Addition and Subtraction of Directed Numbers
+214,11841,1.1 The Concept and Applications of Directed Numbers
+215,11869,1.2 Addition and Subtraction of Directed Numbers
+216,11858,1.1 The Concept and Applications of Directed Numbers
+217,11857,1.1 The Concept and Applications of Directed Numbers
+218,11870,1.2 Addition and Subtraction of Directed Numbers
+219,11856,1.1 The Concept and Applications of Directed Numbers
+220,11927,1.3 Multiplication and Division of Directed Numbers
+221,11891,1.2 Addition and Subtraction of Directed Numbers
+222,11879,1.2 Addition and Subtraction of Directed Numbers
+223,11880,1.2 Addition and Subtraction of Directed Numbers
+224,11895,1.2 Addition and Subtraction of Directed Numbers
+225,12140,2.1 Introduction to Algebra
+226,12134,2.1 Introduction to Algebra
+227,11859,1.2 Addition and Subtraction of Directed Numbers
+228,12150,2.1 Introduction to Algebra
+229,11863,1.2 Addition and Subtraction of Directed Numbers
+230,11415,2.2 Algebraic Equations in One Unknown
+231,11864,1.2 Addition and Subtraction of Directed Numbers
+232,11871,1.2 Addition and Subtraction of Directed Numbers
+233,13985,6.2 Plane Figures
+234,11411,2.2 Algebraic Equations in One Unknown
+235,13993,6.2 Plane Figures
+236,14008,6.2 Plane Figures
+237,11888,1.2 Addition and Subtraction of Directed Numbers
+238,12137,2.1 Introduction to Algebra
+239,11758,3.4 Discount
+240,11862,1.2 Addition and Subtraction of Directed Numbers
+241,11898,1.3 Multiplication and Division of Directed Numbers
+242,14331,6.3 3-D Figures
+243,11889,1.2 Addition and Subtraction of Directed Numbers
+244,14305,6.3 3-D Figures
+245,11899,1.3 Multiplication and Division of Directed Numbers
+246,14296,6.3 3-D Figures
+247,11900,1.3 Multiplication and Division of Directed Numbers
+248,14201,6.3 3-D Figures
+249,12105,4.2 Formulas
+250,12169,2.1 Introduction to Algebra
+251,11911,1.3 Multiplication and Division of Directed Numbers
+252,14202,6.3 3-D Figures
+253,12144,2.1 Introduction to Algebra
+254,11915,1.3 Multiplication and Division of Directed Numbers
+255,14204,6.3 3-D Figures
+256,14208,6.3 3-D Figures
+257,13726,6.1 Basic Geometric Knowledge
+258,11893,1.2 Addition and Subtraction of Directed Numbers
+259,14196,6.3 3-D Figures
+260,11892,1.2 Addition and Subtraction of Directed Numbers
+261,13649,6.1 Basic Geometric Knowledge
+262,11410,2.2 Algebraic Equations in One Unknown
+263,14198,6.3 3-D Figures
+264,11884,1.2 Addition and Subtraction of Directed Numbers
+265,11517,3.1 Simple Problems Involving Percentages
+266,13628,6.1 Basic Geometric Knowledge
+267,11877,1.2 Addition and Subtraction of Directed Numbers
+268,11878,1.2 Addition and Subtraction of Directed Numbers
+269,15059,17.5 Application of Simultaneous Linear Equaitons
+270,12194,2.1 Introduction to Algebra
+271,12179,2.1 Introduction to Algebra
+272,15060,17.5 Application of Simultaneous Linear Equaitons
+273,15344,17.5 Application of Simultaneous Linear Equaitons
+274,11872,1.2 Addition and Subtraction of Directed Numbers
+275,11873,1.2 Addition and Subtraction of Directed Numbers
+276,11875,1.2 Addition and Subtraction of Directed Numbers
+277,11885,1.2 Addition and Subtraction of Directed Numbers
+278,11886,1.2 Addition and Subtraction of Directed Numbers
+279,11913,1.3 Multiplication and Division of Directed Numbers
+280,11914,1.3 Multiplication and Division of Directed Numbers
+281,11916,1.3 Multiplication and Division of Directed Numbers
+282,11918,1.3 Multiplication and Division of Directed Numbers
+283,11908,1.3 Multiplication and Division of Directed Numbers
+284,11909,1.3 Multiplication and Division of Directed Numbers
+285,11910,1.3 Multiplication and Division of Directed Numbers
+286,11928,1.3 Multiplication and Division of Directed Numbers
+287,12143,2.1 Introduction to Algebra
+288,11412,2.2 Algebraic Equations in One Unknown
+289,11440,2.3 Application Problems in One Unknown Equations
+290,11441,2.3 Application Problems in One Unknown Equations
+291,11912,1.3 Multiplication and Division of Directed Numbers
+292,12177,2.1 Introduction to Algebra
+293,14021,6.2 Plane Figures
+294,14159,6.2 Plane Figures
+295,11443,2.3 Application Problems in One Unknown Equations
+296,11527,3.1 Simple Problems Involving Percentages
+297,12247,5.1 Estimating Numbers
+298,11931,1.3 Multiplication and Division of Directed Numbers
+299,12106,4.2 Formulas
+300,12108,4.2 Formulas
+301,12109,4.2 Formulas
+302,12110,4.2 Formulas
+303,12122,4.2 Formulas
+304,12123,4.2 Formulas
+305,11395,2.2 Algebraic Equations in One Unknown
+306,11554,3.2 Percentage Change
+307,11558,3.2 Percentage Change
+308,11556,3.2 Percentage Change
+309,11560,3.2 Percentage Change
+310,11566,3.2 Percentage Change
+311,11555,3.2 Percentage Change
+312,11557,3.2 Percentage Change
+313,11925,1.3 Multiplication and Division of Directed Numbers
+314,11414,2.2 Algebraic Equations in One Unknown
+315,11405,2.2 Algebraic Equations in One Unknown
+316,11404,2.2 Algebraic Equations in One Unknown
+317,11413,2.2 Algebraic Equations in One Unknown
+318,11396,2.2 Algebraic Equations in One Unknown
+319,11397,2.2 Algebraic Equations in One Unknown
+320,11398,2.2 Algebraic Equations in One Unknown
+321,11399,2.2 Algebraic Equations in One Unknown
+322,12967,26.1 Factorization Using Square Identities
+323,12973,26.1 Factorization Using Square Identities
+324,14747,26.1 Factorization Using Square Identities
+325,14745,26.1 Factorization Using Square Identities
+326,12978,26.1 Factorization Using Square Identities
+327,12983,26.1 Factorization Using Square Identities
+328,13073,26.2 Factorization Using Cross-method
+329,12988,26.1 Factorization Using Square Identities
+330,13071,26.2 Factorization Using Cross-method
+331,14631,26.1 Factorization Using Square Identities
+332,14386,26.1 Factorization Using Square Identities
+333,14385,26.1 Factorization Using Square Identities
+334,14381,26.1 Factorization Using Square Identities
+335,13074,26.2 Factorization Using Cross-method
+336,14737,26.1 Factorization Using Square Identities
+337,13086,26.2 Factorization Using Cross-method
+338,14801,26.1 Factorization Using Square Identities
+339,13151,26.2 Factorization Using Cross-method
+340,14746,26.1 Factorization Using Square Identities
+341,12995,26.1 Factorization Using Square Identities
+342,13158,26.2 Factorization Using Cross-method
+343,15364,30.2 Linear Inequalities in One Unknown
+344,14214,26.1 Factorization Using Square Identities
+345,14218,26.1 Factorization Using Square Identities
+346,14374,26.1 Factorization Using Square Identities
+347,15365,30.2 Linear Inequalities in One Unknown
+348,13171,26.2 Factorization Using Cross-method
+349,14377,26.1 Factorization Using Square Identities
+350,14383,26.1 Factorization Using Square Identities
+351,15366,30.2 Linear Inequalities in One Unknown
+352,14384,26.1 Factorization Using Square Identities
+353,15367,30.2 Linear Inequalities in One Unknown
+354,14748,26.1 Factorization Using Square Identities
+355,15368,30.2 Linear Inequalities in One Unknown
+356,15312,30.2 Linear Inequalities in One Unknown
+357,15313,30.2 Linear Inequalities in One Unknown
+358,14755,26.1 Factorization Using Square Identities
+359,15314,30.2 Linear Inequalities in One Unknown
+360,14808,26.1 Factorization Using Square Identities
+361,13320,29.3 More about Percentage Changes
+362,13321,29.3 More about Percentage Changes
+363,13322,29.3 More about Percentage Changes
+364,13323,29.3 More about Percentage Changes
+365,13324,29.3 More about Percentage Changes
+366,14812,26.1 Factorization Using Square Identities
+367,14788,26.1 Factorization Using Square Identities
+368,14796,26.1 Factorization Using Square Identities
+369,14799,26.1 Factorization Using Square Identities
+370,14742,26.1 Factorization Using Square Identities
+371,13081,26.2 Factorization Using Cross-method
+372,13088,26.2 Factorization Using Cross-method
+373,13092,26.2 Factorization Using Cross-method
+374,14042,6.2 Plane Figures
+375,14039,6.2 Plane Figures
+376,14040,6.2 Plane Figures
+377,14083,6.2 Plane Figures
+378,14036,6.2 Plane Figures
+379,14080,6.2 Plane Figures
+380,14060,6.2 Plane Figures
+381,14151,6.2 Plane Figures
+382,14051,6.2 Plane Figures
+383,14145,6.2 Plane Figures
+384,14181,6.2 Plane Figures
+385,14043,6.2 Plane Figures
+386,14059,6.2 Plane Figures
+387,14146,6.2 Plane Figures
+388,14054,6.2 Plane Figures
+389,14077,6.2 Plane Figures
+390,14148,6.2 Plane Figures
+391,14166,6.2 Plane Figures
+392,14170,6.2 Plane Figures
+393,14050,6.2 Plane Figures
+394,14064,6.2 Plane Figures
+395,14164,6.2 Plane Figures
+396,14153,6.2 Plane Figures
+397,14178,6.2 Plane Figures
+398,14030,6.2 Plane Figures
+399,12020,18.1 Rate
+400,12004,18.1 Rate
+401,12008,18.1 Rate
+402,12011,18.1 Rate
+403,12905,18.3 Applications of Ratio
+404,12014,18.1 Rate
+405,12001,18.1 Rate
+406,12037,18.2 Ratio
+407,11983,18.1 Rate
+408,12908,18.3 Applications of Ratio
+409,12015,18.1 Rate
+410,12910,18.3 Applications of Ratio
+411,11968,18.1 Rate
+412,12913,18.3 Applications of Ratio
+413,11988,18.1 Rate
+414,11997,18.1 Rate
+415,12039,18.2 Ratio
+416,12917,18.3 Applications of Ratio
+417,11973,18.1 Rate
+418,12040,18.2 Ratio
+419,11974,18.1 Rate
+420,12041,18.2 Ratio
+421,12024,18.1 Rate
+422,12028,18.1 Rate
+423,12032,18.2 Ratio
+424,11985,18.1 Rate
+425,11977,18.1 Rate
+426,12029,18.1 Rate
+427,11981,18.1 Rate
+428,12030,18.1 Rate
+429,12033,18.2 Ratio
+430,12034,18.2 Ratio
+431,11992,18.1 Rate
+432,12035,18.2 Ratio
+433,11999,18.1 Rate
+434,12027,18.1 Rate
+435,11990,18.1 Rate
+436,11994,18.1 Rate
+437,14480,14.3 Polynomials
+438,14481,14.3 Polynomials
+439,12026,18.1 Rate
+440,12018,18.1 Rate
+441,12031,18.1 Rate
+442,12022,18.1 Rate
+443,11984,18.1 Rate
+444,12895,18.3 Applications of Ratio
+445,12886,18.3 Applications of Ratio
+446,12047,18.2 Ratio
+447,12926,18.3 Applications of Ratio
+448,12927,18.3 Applications of Ratio
+449,12928,18.3 Applications of Ratio
+450,12836,14.5 Multiplication of Polynomials
+451,12930,18.3 Applications of Ratio
+452,12931,18.3 Applications of Ratio
+453,12945,18.3 Applications of Ratio
+454,12942,18.3 Applications of Ratio
+455,12048,18.2 Ratio
+456,12948,18.3 Applications of Ratio
+457,12049,18.2 Ratio
+458,12950,18.3 Applications of Ratio
+459,12050,18.2 Ratio
+460,12051,18.2 Ratio
+461,12953,18.3 Applications of Ratio
+462,12058,18.2 Ratio
+463,12057,18.2 Ratio
+464,12059,18.2 Ratio
+465,12061,18.2 Ratio
+466,12062,18.2 Ratio
+467,12897,18.3 Applications of Ratio
+468,12042,18.2 Ratio
+469,12055,18.2 Ratio
+470,12052,18.2 Ratio
+471,12902,18.3 Applications of Ratio
+472,14468,14.2 Laws of Indices
+473,12900,18.3 Applications of Ratio
+474,12922,18.3 Applications of Ratio
+475,12043,18.2 Ratio
+476,12036,18.2 Ratio
+477,12240,14.4 Addition and Subtraction of Polynomials
+478,12245,14.4 Addition and Subtraction of Polynomials
+479,12249,14.4 Addition and Subtraction of Polynomials
+480,12251,14.4 Addition and Subtraction of Polynomials
+481,12252,14.4 Addition and Subtraction of Polynomials
+482,12046,18.2 Ratio
+483,12201,2.1 Introduction to Algebra
+484,14982,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+485,14984,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+486,14986,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+487,15397,35.2 Nets
+488,15394,35.2 Nets
+489,15384,35.2 Nets
+490,15453,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+491,15456,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+492,15477,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+493,15455,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+494,15457,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+495,15458,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+496,12920,18.3 Applications of Ratio
+497,12939,18.3 Applications of Ratio
+498,12925,18.3 Applications of Ratio
+499,12937,18.3 Applications of Ratio
+500,12924,18.3 Applications of Ratio
+501,12935,18.3 Applications of Ratio
+502,12933,18.3 Applications of Ratio
+503,12940,18.3 Applications of Ratio
+504,12819,14.5 Multiplication of Polynomials
+505,12820,14.5 Multiplication of Polynomials
+506,12822,14.5 Multiplication of Polynomials
+507,12919,18.3 Applications of Ratio
+508,12053,18.2 Ratio
+509,12824,14.5 Multiplication of Polynomials
+510,12724,14.6 Simple Factorization of Polynomials
+511,12735,14.6 Simple Factorization of Polynomials
+512,14482,14.3 Polynomials
+513,12739,14.6 Simple Factorization of Polynomials
+514,12745,14.6 Simple Factorization of Polynomials
+515,12748,14.6 Simple Factorization of Polynomials
+516,12759,14.6 Simple Factorization of Polynomials
+517,12769,14.6 Simple Factorization of Polynomials
+518,12771,14.6 Simple Factorization of Polynomials
+519,12784,14.6 Simple Factorization of Polynomials
+520,12787,14.6 Simple Factorization of Polynomials
+521,12790,14.6 Simple Factorization of Polynomials
+522,12806,14.6 Simple Factorization of Polynomials
+523,12811,14.6 Simple Factorization of Polynomials
+524,12075,14.1 Index Notation
+525,12370,15.1 Meaning of Identities
+526,12382,15.1 Meaning of Identities
+527,12393,15.1 Meaning of Identities
+528,11472,15.3 The Perfect Square Identities
+529,11471,15.3 The Perfect Square Identities
+530,13152,26.2 Factorization Using Cross-method
+531,13154,26.2 Factorization Using Cross-method
+532,14981,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+533,15385,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+534,15061,26.3 Factorization Using Other Identities
+535,15062,26.3 Factorization Using Other Identities
+536,15063,26.3 Factorization Using Other Identities
+537,14985,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+538,15064,26.3 Factorization Using Other Identities
+539,15065,26.3 Factorization Using Other Identities
+540,14823,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+541,15066,26.3 Factorization Using Other Identities
+542,15067,26.3 Factorization Using Other Identities
+543,14843,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+544,15068,26.3 Factorization Using Other Identities
+545,15379,35.2 Nets
+546,15069,26.3 Factorization Using Other Identities
+547,11485,27.1 Zero and Negative Integral Indices
+548,15380,35.2 Nets
+549,13156,26.2 Factorization Using Cross-method
+550,15381,35.2 Nets
+551,15382,35.2 Nets
+552,15383,35.2 Nets
+553,15369,30.2 Linear Inequalities in One Unknown
+554,15370,30.2 Linear Inequalities in One Unknown
+555,15315,30.2 Linear Inequalities in One Unknown
+556,15371,30.2 Linear Inequalities in One Unknown
+557,15372,30.2 Linear Inequalities in One Unknown
+558,15398,35.2 Nets
+559,15373,30.2 Linear Inequalities in One Unknown
+560,15317,30.2 Linear Inequalities in One Unknown
+561,15374,30.2 Linear Inequalities in One Unknown
+562,13102,26.2 Factorization Using Cross-method
+563,15375,30.2 Linear Inequalities in One Unknown
+564,15700,26.3 Factorization Using Other Identities
+565,15376,30.2 Linear Inequalities in One Unknown
+566,15415,35.1 Symmetry of 3-D Figures
+567,15417,35.1 Symmetry of 3-D Figures
+568,15422,35.1 Symmetry of 3-D Figures
+569,15702,26.3 Factorization Using Other Identities
+570,15439,35.1 Symmetry of 3-D Figures
+571,15418,35.1 Symmetry of 3-D Figures
+572,15704,26.3 Factorization Using Other Identities
+573,13106,26.2 Factorization Using Cross-method
+574,15435,35.1 Symmetry of 3-D Figures
+575,15419,35.1 Symmetry of 3-D Figures
+576,15420,35.1 Symmetry of 3-D Figures
+577,13107,26.2 Factorization Using Cross-method
+578,15436,35.1 Symmetry of 3-D Figures
+579,15437,35.1 Symmetry of 3-D Figures
+580,15399,35.2 Nets
+581,15427,35.1 Symmetry of 3-D Figures
+582,15440,35.1 Symmetry of 3-D Figures
+583,15432,35.1 Symmetry of 3-D Figures
+584,15401,35.2 Nets
+585,15433,35.1 Symmetry of 3-D Figures
+586,15402,35.2 Nets
+587,15430,35.1 Symmetry of 3-D Figures
+588,15441,35.1 Symmetry of 3-D Figures
+589,15387,35.2 Nets
+590,15450,35.1 Symmetry of 3-D Figures
+591,15442,35.1 Symmetry of 3-D Figures
+592,15448,35.1 Symmetry of 3-D Figures
+593,15388,35.2 Nets
+594,15426,35.1 Symmetry of 3-D Figures
+595,15423,35.1 Symmetry of 3-D Figures
+596,15429,35.1 Symmetry of 3-D Figures
+597,15445,35.1 Symmetry of 3-D Figures
+598,15389,35.2 Nets
+599,15425,35.1 Symmetry of 3-D Figures
+600,15390,35.2 Nets
+601,15405,35.2 Nets
+602,15452,35.1 Symmetry of 3-D Figures
+603,15403,35.2 Nets
+604,15446,35.1 Symmetry of 3-D Figures
+605,15404,35.2 Nets
+606,12799,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+607,13978,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+608,13694,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+609,15451,35.1 Symmetry of 3-D Figures
+610,14047,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+611,15443,35.1 Symmetry of 3-D Figures
+612,15406,35.2 Nets
+613,14012,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+614,15444,35.1 Symmetry of 3-D Figures
+615,15407,35.2 Nets
+616,14033,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+617,15395,35.2 Nets
+618,13712,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+619,15391,35.2 Nets
+620,14041,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+621,15392,35.2 Nets
+622,15413,35.2 Nets
+623,15393,35.2 Nets
+624,15447,35.1 Symmetry of 3-D Figures
+625,14006,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+626,15412,35.2 Nets
+627,14049,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+628,13723,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+629,14027,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+630,12602,29.1 Compund Interest
+631,15410,35.2 Nets
+632,15408,35.2 Nets
+633,15411,35.2 Nets
+634,13398,29.4 Taxation
+635,12818,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+636,13905,28.2 Surds
+637,13906,28.2 Surds
+638,13907,28.2 Surds
+639,13908,28.2 Surds
+640,13909,28.2 Surds
+641,13856,28.2 Surds
+642,13859,28.2 Surds
+643,13860,28.2 Surds
+644,13862,28.2 Surds
+645,13863,28.2 Surds
+646,13910,28.2 Surds
+647,13168,26.2 Factorization Using Cross-method
+648,14852,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+649,15474,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+650,14859,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+651,14874,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+652,15478,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+653,14987,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+654,15400,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+655,15409,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+656,15479,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+657,14989,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+658,14880,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+659,14891,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+660,14896,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+661,14911,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+662,14915,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+663,14991,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+664,14992,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+665,15414,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+666,14882,32.2 Calculate Central Tendency for a Large Set of Data
+667,14961,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+668,15706,26.3 Factorization Using Other Identities
+669,14869,32.2 Calculate Central Tendency for a Large Set of Data
+670,13568,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+671,15463,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+672,13911,28.2 Surds
+673,15489,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+674,13681,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+675,15460,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+676,12619,27.3 Different Numeral Systems
+677,15707,26.3 Factorization Using Other Identities
+678,15490,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+679,13912,28.2 Surds
+680,15461,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+681,15492,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+682,15462,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+683,15464,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+684,13913,28.2 Surds
+685,15494,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+686,13914,28.2 Surds
+687,15495,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+688,13904,28.2 Surds
+689,15473,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+690,15469,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+691,13915,28.2 Surds
+692,15467,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+693,15466,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+694,13916,28.2 Surds
+695,15465,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+696,15487,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+697,13917,28.2 Surds
+698,15486,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+699,15481,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+700,13918,28.2 Surds
+701,13536,29.2 Increasing/Decreasing at a Constant Rate
+702,13919,28.2 Surds
+703,14994,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+704,14993,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+705,12598,27.3 Different Numeral Systems
+706,12606,27.3 Different Numeral Systems
+707,12613,27.3 Different Numeral Systems
+708,12655,27.3 Different Numeral Systems
+709,15482,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+710,15483,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+711,12375,15.2 The Difference of Two Squares
+712,12379,15.2 The Difference of Two Squares
+713,12381,15.2 The Difference of Two Squares
+714,12385,15.2 The Difference of Two Squares
+715,12365,15.2 The Difference of Two Squares
+716,12386,15.2 The Difference of Two Squares
+717,12406,15.2 The Difference of Two Squares
+718,12407,15.2 The Difference of Two Squares
+719,12410,15.2 The Difference of Two Squares
+720,12413,15.2 The Difference of Two Squares
+721,12415,15.2 The Difference of Two Squares
+722,12434,15.2 The Difference of Two Squares
+723,12439,15.2 The Difference of Two Squares
+724,12443,15.2 The Difference of Two Squares
+725,12423,15.2 The Difference of Two Squares
+726,12425,15.2 The Difference of Two Squares
+727,12077,14.1 Index Notation
+728,12254,14.4 Addition and Subtraction of Polynomials
+729,12256,14.4 Addition and Subtraction of Polynomials
+730,12258,14.4 Addition and Subtraction of Polynomials
+731,12259,14.4 Addition and Subtraction of Polynomials
+732,12262,14.4 Addition and Subtraction of Polynomials
+733,12267,14.4 Addition and Subtraction of Polynomials
+734,12268,14.4 Addition and Subtraction of Polynomials
+735,12274,14.4 Addition and Subtraction of Polynomials
+736,14457,14.2 Laws of Indices
+737,14445,14.2 Laws of Indices
+738,14447,14.2 Laws of Indices
+739,12094,16.1 Simple Algebraic Fractions
+740,12098,16.1 Simple Algebraic Fractions
+741,12096,16.1 Simple Algebraic Fractions
+742,12090,16.1 Simple Algebraic Fractions
+743,12091,16.1 Simple Algebraic Fractions
+744,12092,16.1 Simple Algebraic Fractions
+745,12093,16.1 Simple Algebraic Fractions
+746,12095,16.1 Simple Algebraic Fractions
+747,12097,16.1 Simple Algebraic Fractions
+748,11975,16.3 Change of  Subject of a Formula
+749,11996,16.3 Change of  Subject of a Formula
+750,11976,16.3 Change of  Subject of a Formula
+751,12021,16.3 Change of  Subject of a Formula
+752,12023,16.3 Change of  Subject of a Formula
+753,11987,16.3 Change of  Subject of a Formula
+754,11978,16.3 Change of  Subject of a Formula
+755,11998,16.3 Change of  Subject of a Formula
+756,11982,16.3 Change of  Subject of a Formula
+757,11995,16.3 Change of  Subject of a Formula
+758,11979,16.3 Change of  Subject of a Formula
+759,12010,16.3 Change of  Subject of a Formula
+760,12002,16.3 Change of  Subject of a Formula
+761,12007,16.3 Change of  Subject of a Formula
+762,12006,16.3 Change of  Subject of a Formula
+763,11980,16.3 Change of  Subject of a Formula
+764,12012,16.3 Change of  Subject of a Formula
+765,12005,16.3 Change of  Subject of a Formula
+766,12019,16.3 Change of  Subject of a Formula
+767,11986,16.3 Change of  Subject of a Formula
+768,15343,17.5 Application of Simultaneous Linear Equaitons
+769,15345,17.5 Application of Simultaneous Linear Equaitons
+770,15346,17.5 Application of Simultaneous Linear Equaitons
+771,11993,16.3 Change of  Subject of a Formula
+772,11989,16.3 Change of  Subject of a Formula
+773,11991,16.3 Change of  Subject of a Formula
+774,12025,16.3 Change of  Subject of a Formula
+775,12017,16.3 Change of  Subject of a Formula
+776,12003,16.3 Change of  Subject of a Formula
+777,15347,17.5 Application of Simultaneous Linear Equaitons
+778,15348,17.5 Application of Simultaneous Linear Equaitons
+779,11934,16.2 Formulas and Subsitution
+780,11936,16.2 Formulas and Subsitution
+781,11937,16.2 Formulas and Subsitution
+782,11939,16.2 Formulas and Subsitution
+783,15349,17.5 Application of Simultaneous Linear Equaitons
+784,11940,16.2 Formulas and Subsitution
+785,14499,32.1 Introduction to Measures of Central Tendency
+786,14520,9.1 Symmetry
+787,14524,9.1 Symmetry
+788,14537,9.1 Symmetry
+789,14539,9.1 Symmetry
+790,14543,9.1 Symmetry
+791,12124,4.2 Formulas
+792,12125,4.2 Formulas
+793,12111,4.2 Formulas
+794,12112,4.2 Formulas
+795,12113,4.2 Formulas
+796,12114,4.2 Formulas
+797,12115,4.2 Formulas
+798,12116,4.2 Formulas
+799,12119,4.2 Formulas
+800,12121,4.2 Formulas
+801,12126,4.2 Formulas
+802,12136,4.2 Formulas
+803,12127,4.2 Formulas
+804,12128,4.2 Formulas
+805,12129,4.2 Formulas
+806,12117,4.2 Formulas
+807,12118,4.2 Formulas
+808,12120,4.2 Formulas
+809,12130,4.2 Formulas
+810,12132,4.2 Formulas
+811,12131,4.2 Formulas
+812,12135,4.2 Formulas
+813,15045,9.3 Effects of Transformations on Coordinates
+814,14589,9.1 Symmetry
+815,11529,3.1 Simple Problems Involving Percentages
+816,14595,9.1 Symmetry
+817,11530,3.1 Simple Problems Involving Percentages
+818,14603,9.1 Symmetry
+819,14605,9.1 Symmetry
+820,11531,3.1 Simple Problems Involving Percentages
+821,14619,9.1 Symmetry
+822,11547,3.1 Simple Problems Involving Percentages
+823,14545,9.1 Symmetry
+824,14549,9.1 Symmetry
+825,14562,9.1 Symmetry
+826,12138,4.3 Sequences
+827,12139,4.3 Sequences
+828,12141,4.3 Sequences
+829,12171,4.3 Sequences
+830,14565,9.1 Symmetry
+831,14572,9.1 Symmetry
+832,14622,9.1 Symmetry
+833,11416,2.2 Algebraic Equations in One Unknown
+834,11919,1.3 Multiplication and Division of Directed Numbers
+835,11418,2.2 Algebraic Equations in One Unknown
+836,11402,2.2 Algebraic Equations in One Unknown
+837,15551,27.2 Scientific Notation
+838,14450,14.2 Laws of Indices
+839,14452,14.2 Laws of Indices
+840,15523,27.2 Scientific Notation
+841,15550,27.2 Scientific Notation
+842,15552,27.2 Scientific Notation
+843,15717,26.3 Factorization Using Other Identities
+844,15554,27.2 Scientific Notation
+845,13326,29.3 More about Percentage Changes
+846,15680,27.2 Scientific Notation
+847,12727,14.6 Simple Factorization of Polynomials
+848,13195,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+849,13197,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+850,13199,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+851,20309,20.2 Angles of  Polygons
+852,13201,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+853,15674,27.2 Scientific Notation
+854,13202,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+855,12754,14.6 Simple Factorization of Polynomials
+856,12417,15.1 Meaning of Identities
+857,15531,27.2 Scientific Notation
+858,15519,27.2 Scientific Notation
+859,12422,15.1 Meaning of Identities
+860,13319,29.3 More about Percentage Changes
+861,12433,15.1 Meaning of Identities
+862,12427,15.1 Meaning of Identities
+863,15683,27.2 Scientific Notation
+864,12436,15.1 Meaning of Identities
+865,19532,20.1 Angles of Triangles
+866,14496,14.3 Polynomials
+867,12732,14.6 Simple Factorization of Polynomials
+868,12749,29.3 More about Percentage Changes
+869,19546,20.1 Angles of Triangles
+870,12107,27.2 Scientific Notation
+871,15521,27.2 Scientific Notation
+872,12308,14.4 Addition and Subtraction of Polynomials
+873,15675,27.2 Scientific Notation
+874,15262,36.4 Similar Figures
+875,15676,27.2 Scientific Notation
+876,12730,14.6 Simple Factorization of Polynomials
+877,11486,27.1 Zero and Negative Integral Indices
+878,15677,27.2 Scientific Notation
+879,15678,27.2 Scientific Notation
+880,15679,27.2 Scientific Notation
+881,11487,27.1 Zero and Negative Integral Indices
+882,15520,27.2 Scientific Notation
+883,12311,14.4 Addition and Subtraction of Polynomials
+884,15682,27.2 Scientific Notation
+885,11488,27.1 Zero and Negative Integral Indices
+886,15681,27.2 Scientific Notation
+887,15522,27.2 Scientific Notation
+888,13125,26.2 Factorization Using Cross-method
+889,12750,14.6 Simple Factorization of Polynomials
+890,11489,27.1 Zero and Negative Integral Indices
+891,12757,14.6 Simple Factorization of Polynomials
+892,14574,9.1 Symmetry
+893,14575,9.1 Symmetry
+894,14563,9.1 Symmetry
+895,14594,9.1 Symmetry
+896,13205,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+897,13209,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+898,11490,27.1 Zero and Negative Integral Indices
+899,13211,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+900,13210,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+901,13208,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+902,12814,14.6 Simple Factorization of Polynomials
+903,12673,29.1 Compund Interest
+904,14491,14.3 Polynomials
+905,15121,36.1 Pyramids
+906,11491,27.1 Zero and Negative Integral Indices
+907,14489,14.3 Polynomials
+908,15378,30.2 Linear Inequalities in One Unknown
+909,14578,9.1 Symmetry
+910,11492,27.1 Zero and Negative Integral Indices
+911,15377,30.2 Linear Inequalities in One Unknown
+912,11493,27.1 Zero and Negative Integral Indices
+913,14490,14.3 Polynomials
+914,13129,26.2 Factorization Using Cross-method
+915,14651,32.4 Effects of Changing Data on Central Tendency
+916,11495,27.1 Zero and Negative Integral Indices
+917,14649,32.4 Effects of Changing Data on Central Tendency
+918,12803,14.6 Simple Factorization of Polynomials
+919,14648,32.4 Effects of Changing Data on Central Tendency
+920,14647,32.4 Effects of Changing Data on Central Tendency
+921,12815,14.6 Simple Factorization of Polynomials
+922,14645,32.4 Effects of Changing Data on Central Tendency
+923,12167,15.1 Meaning of Identities
+924,14580,9.1 Symmetry
+925,12044,18.2 Ratio
+926,14488,14.3 Polynomials
+927,14600,9.1 Symmetry
+928,11500,27.1 Zero and Negative Integral Indices
+929,15544,27.2 Scientific Notation
+930,14692,33.2 Special Lines in triangles
+931,13109,26.2 Factorization Using Cross-method
+932,12319,14.4 Addition and Subtraction of Polynomials
+933,12756,14.6 Simple Factorization of Polynomials
+934,14765,33.2 Special Lines in triangles
+935,14498,14.3 Polynomials
+936,15524,27.2 Scientific Notation
+937,12301,5.1 Estimating Numbers
+938,12652,27.3 Different Numeral Systems
+939,12805,14.6 Simple Factorization of Polynomials
+940,12273,5.1 Estimating Numbers
+941,12648,27.3 Different Numeral Systems
+942,11459,15.3 The Perfect Square Identities
+943,15527,27.2 Scientific Notation
+944,20346,20.2 Angles of  Polygons
+945,13175,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+946,15525,27.2 Scientific Notation
+947,12677,29.1 Compund Interest
+948,13180,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+949,14865,7.2 Prism
+950,15289,36.4 Similar Figures
+951,12662,29.1 Compund Interest
+952,15502,7.2 Prism
+953,11499,27.1 Zero and Negative Integral Indices
+954,15493,7.2 Prism
+955,12621,29.1 Compund Interest
+956,11498,27.1 Zero and Negative Integral Indices
+957,13190,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+958,11497,27.1 Zero and Negative Integral Indices
+959,13185,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+960,11496,27.1 Zero and Negative Integral Indices
+961,13207,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+962,19525,20.1 Angles of Triangles
+963,13187,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+964,19527,20.1 Angles of Triangles
+965,11952,16.2 Formulas and Subsitution
+966,19529,20.1 Angles of Triangles
+967,12828,14.5 Multiplication of Polynomials
+968,19531,20.1 Angles of Triangles
+969,13439,29.4 Taxation
+970,12826,14.5 Multiplication of Polynomials
+971,11494,27.1 Zero and Negative Integral Indices
+972,19535,20.1 Angles of Triangles
+973,13477,29.4 Taxation
+974,13430,29.4 Taxation
+975,13445,29.4 Taxation
+976,11953,16.2 Formulas and Subsitution
+977,15092,36.1 Pyramids
+978,19536,20.1 Angles of Triangles
+979,15100,36.1 Pyramids
+980,19537,20.1 Angles of Triangles
+981,19538,20.1 Angles of Triangles
+982,19539,20.1 Angles of Triangles
+983,22111,24.1 Trigonometric Ratios of Some Special Angles
+984,14449,14.2 Laws of Indices
+985,20347,20.2 Angles of  Polygons
+986,11470,15.3 The Perfect Square Identities
+987,20348,20.2 Angles of  Polygons
+988,11473,15.3 The Perfect Square Identities
+989,11474,15.3 The Perfect Square Identities
+990,11475,15.3 The Perfect Square Identities
+991,11455,15.3 The Perfect Square Identities
+992,11456,15.3 The Perfect Square Identities
+993,12830,14.5 Multiplication of Polynomials
+994,12832,14.5 Multiplication of Polynomials
+995,11476,15.3 The Perfect Square Identities
+996,11477,15.3 The Perfect Square Identities
+997,11478,15.3 The Perfect Square Identities
+998,11479,15.3 The Perfect Square Identities
+999,11480,15.3 The Perfect Square Identities
+1000,14497,14.3 Polynomials
+1001,12834,14.5 Multiplication of Polynomials
+1002,12835,14.5 Multiplication of Polynomials
+1003,12829,14.5 Multiplication of Polynomials
+1004,12104,16.1 Simple Algebraic Fractions
+1005,12100,16.1 Simple Algebraic Fractions
+1006,12063,16.1 Simple Algebraic Fractions
+1007,12065,16.1 Simple Algebraic Fractions
+1008,12066,16.1 Simple Algebraic Fractions
+1009,14448,14.2 Laws of Indices
+1010,12270,14.4 Addition and Subtraction of Polynomials
+1011,12313,14.4 Addition and Subtraction of Polynomials
+1012,11446,2.3 Application Problems in One Unknown Equations
+1013,11760,3.4 Discount
+1014,12833,14.5 Multiplication of Polynomials
+1015,11659,4.1 Fomulating Inequalities
+1016,11662,4.1 Fomulating Inequalities
+1017,11663,4.1 Fomulating Inequalities
+1018,11676,4.1 Fomulating Inequalities
+1019,11679,4.1 Fomulating Inequalities
+1020,11680,4.1 Fomulating Inequalities
+1021,11502,27.1 Zero and Negative Integral Indices
+1022,11503,27.1 Zero and Negative Integral Indices
+1023,11504,27.1 Zero and Negative Integral Indices
+1024,11505,27.1 Zero and Negative Integral Indices
+1025,11506,27.1 Zero and Negative Integral Indices
+1026,11508,27.1 Zero and Negative Integral Indices
+1027,11509,27.1 Zero and Negative Integral Indices
+1028,12627,29.1 Compund Interest
+1029,12603,29.1 Compund Interest
+1030,12614,29.1 Compund Interest
+1031,12618,29.1 Compund Interest
+1032,12624,29.1 Compund Interest
+1033,12630,29.1 Compund Interest
+1034,12640,29.1 Compund Interest
+1035,12645,29.1 Compund Interest
+1036,12369,15.2 The Difference of Two Squares
+1037,12371,15.2 The Difference of Two Squares
+1038,12372,15.2 The Difference of Two Squares
+1039,12374,15.2 The Difference of Two Squares
+1040,19593,20.1 Angles of Triangles
+1041,19596,20.1 Angles of Triangles
+1042,19601,20.1 Angles of Triangles
+1043,15515,19.3 Misuses of Statistical Diagrams
+1044,22053,23.1 Introduction to Trigonometric Ratios
+1045,21852,22.2 Converse of Pythagoras' Theorem
+1046,21853,22.2 Converse of Pythagoras' Theorem
+1047,21854,22.2 Converse of Pythagoras' Theorem
+1048,21846,22.2 Converse of Pythagoras' Theorem
+1049,12650,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1050,12633,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1051,12009,16.3 Change of  Subject of a Formula
+1052,22110,24.1 Trigonometric Ratios of Some Special Angles
+1053,20230,22.1 Pythagoras' Theorem
+1054,20231,22.1 Pythagoras' Theorem
+1055,22109,24.1 Trigonometric Ratios of Some Special Angles
+1056,20232,22.1 Pythagoras' Theorem
+1057,22108,24.1 Trigonometric Ratios of Some Special Angles
+1058,20233,22.1 Pythagoras' Theorem
+1059,22107,24.1 Trigonometric Ratios of Some Special Angles
+1060,22106,24.1 Trigonometric Ratios of Some Special Angles
+1061,22102,24.1 Trigonometric Ratios of Some Special Angles
+1062,22104,24.1 Trigonometric Ratios of Some Special Angles
+1063,22105,24.1 Trigonometric Ratios of Some Special Angles
+1064,22097,24.1 Trigonometric Ratios of Some Special Angles
+1065,22098,24.1 Trigonometric Ratios of Some Special Angles
+1066,22099,24.1 Trigonometric Ratios of Some Special Angles
+1067,22100,24.1 Trigonometric Ratios of Some Special Angles
+1068,22101,24.1 Trigonometric Ratios of Some Special Angles
+1069,22103,24.1 Trigonometric Ratios of Some Special Angles
+1070,14453,14.2 Laws of Indices
+1071,12191,15.1 Meaning of Identities
+1072,20234,22.1 Pythagoras' Theorem
+1073,14492,14.3 Polynomials
+1074,12317,14.4 Addition and Subtraction of Polynomials
+1075,20342,20.2 Angles of  Polygons
+1076,20343,20.2 Angles of  Polygons
+1077,20349,20.2 Angles of  Polygons
+1078,20339,20.2 Angles of  Polygons
+1079,20313,20.2 Angles of  Polygons
+1080,11484,15.3 The Perfect Square Identities
+1081,11778,19.2 Presentation of Continuous Data
+1082,11483,15.3 The Perfect Square Identities
+1083,11482,15.3 The Perfect Square Identities
+1084,11481,15.3 The Perfect Square Identities
+1085,11785,19.2 Presentation of Continuous Data
+1086,12321,14.4 Addition and Subtraction of Polynomials
+1087,11791,19.2 Presentation of Continuous Data
+1088,11800,19.2 Presentation of Continuous Data
+1089,11668,19.2 Presentation of Continuous Data
+1090,12572,19.1 Organization of Continuous Data
+1091,19605,20.1 Angles of Triangles
+1092,19608,20.1 Angles of Triangles
+1093,19592,20.1 Angles of Triangles
+1094,21855,22.2 Converse of Pythagoras' Theorem
+1095,21856,22.2 Converse of Pythagoras' Theorem
+1096,20209,22.1 Pythagoras' Theorem
+1097,22054,23.1 Introduction to Trigonometric Ratios
+1098,22055,23.1 Introduction to Trigonometric Ratios
+1099,12837,14.5 Multiplication of Polynomials
+1100,22056,23.1 Introduction to Trigonometric Ratios
+1101,22057,23.1 Introduction to Trigonometric Ratios
+1102,12838,14.5 Multiplication of Polynomials
+1103,12324,14.4 Addition and Subtraction of Polynomials
+1104,12839,14.5 Multiplication of Polynomials
+1105,15351,17.5 Application of Simultaneous Linear Equaitons
+1106,15352,17.5 Application of Simultaneous Linear Equaitons
+1107,15354,17.5 Application of Simultaneous Linear Equaitons
+1108,12840,14.5 Multiplication of Polynomials
+1109,12841,14.5 Multiplication of Polynomials
+1110,12101,16.1 Simple Algebraic Fractions
+1111,12102,16.1 Simple Algebraic Fractions
+1112,12843,14.5 Multiplication of Polynomials
+1113,12842,14.5 Multiplication of Polynomials
+1114,12844,14.5 Multiplication of Polynomials
+1115,12845,14.5 Multiplication of Polynomials
+1116,12156,15.1 Meaning of Identities
+1117,11954,16.2 Formulas and Subsitution
+1118,12174,15.1 Meaning of Identities
+1119,11955,16.2 Formulas and Subsitution
+1120,11956,16.2 Formulas and Subsitution
+1121,12401,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1122,12664,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1123,12687,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1124,11922,17.1 Meaning of Linear Equations
+1125,11926,17.1 Meaning of Linear Equations
+1126,11930,17.1 Meaning of Linear Equations
+1127,11933,17.1 Meaning of Linear Equations
+1128,11935,17.1 Meaning of Linear Equations
+1129,11874,17.1 Meaning of Linear Equations
+1130,11867,17.1 Meaning of Linear Equations
+1131,12397,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1132,12392,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1133,14495,14.3 Polynomials
+1134,21842,22.2 Converse of Pythagoras' Theorem
+1135,21843,22.2 Converse of Pythagoras' Theorem
+1136,11941,16.2 Formulas and Subsitution
+1137,21844,22.2 Converse of Pythagoras' Theorem
+1138,11942,16.2 Formulas and Subsitution
+1139,21845,22.2 Converse of Pythagoras' Theorem
+1140,11943,16.2 Formulas and Subsitution
+1141,11950,16.2 Formulas and Subsitution
+1142,20212,22.1 Pythagoras' Theorem
+1143,20213,22.1 Pythagoras' Theorem
+1144,20214,22.1 Pythagoras' Theorem
+1145,20215,22.1 Pythagoras' Theorem
+1146,11887,17.1 Meaning of Linear Equations
+1147,11881,17.1 Meaning of Linear Equations
+1148,11890,17.1 Meaning of Linear Equations
+1149,11894,17.1 Meaning of Linear Equations
+1150,11904,17.1 Meaning of Linear Equations
+1151,11907,17.1 Meaning of Linear Equations
+1152,11917,17.1 Meaning of Linear Equations
+1153,11920,17.1 Meaning of Linear Equations
+1154,15359,30.2 Linear Inequalities in One Unknown
+1155,15130,36.2 Cones
+1156,15139,36.2 Cones
+1157,15142,36.2 Cones
+1158,12070,16.1 Simple Algebraic Fractions
+1159,12801,14.6 Simple Factorization of Polynomials
+1160,12779,14.6 Simple Factorization of Polynomials
+1161,13170,26.2 Factorization Using Cross-method
+1162,12798,14.6 Simple Factorization of Polynomials
+1163,13895,28.2 Surds
+1164,13896,28.2 Surds
+1165,13897,28.2 Surds
+1166,13899,28.2 Surds
+1167,13900,28.2 Surds
+1168,13901,28.2 Surds
+1169,11461,15.3 The Perfect Square Identities
+1170,12103,16.1 Simple Algebraic Fractions
+1171,15510,19.3 Misuses of Statistical Diagrams
+1172,12657,27.3 Different Numeral Systems
+1173,12682,27.4 Conversions between Numbers of Different Numberal Systems
+1174,12686,27.4 Conversions between Numbers of Different Numberal Systems
+1175,11514,27.1 Zero and Negative Integral Indices
+1176,12736,27.4 Conversions between Numbers of Different Numberal Systems
+1177,13200,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1178,11513,27.1 Zero and Negative Integral Indices
+1179,13194,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1180,13193,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1181,13191,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1182,13188,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1183,13172,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1184,13173,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1185,13174,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1186,13176,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1187,13203,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1188,13204,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1189,13206,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1190,13181,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1191,13183,"28.1 Integers, Fractions, Recurring Decimals, Non-terminating Decimals"
+1192,13539,29.2 Increasing/Decreasing at a Constant Rate
+1193,13544,29.2 Increasing/Decreasing at a Constant Rate
+1194,13546,29.2 Increasing/Decreasing at a Constant Rate
+1195,13550,29.2 Increasing/Decreasing at a Constant Rate
+1196,13554,29.2 Increasing/Decreasing at a Constant Rate
+1197,13559,29.2 Increasing/Decreasing at a Constant Rate
+1198,13565,29.2 Increasing/Decreasing at a Constant Rate
+1199,13572,29.2 Increasing/Decreasing at a Constant Rate
+1200,13581,29.2 Increasing/Decreasing at a Constant Rate
+1201,13587,29.2 Increasing/Decreasing at a Constant Rate
+1202,12527,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1203,12533,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1204,12536,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1205,12846,14.5 Multiplication of Polynomials
+1206,11958,16.2 Formulas and Subsitution
+1207,12431,15.2 The Difference of Two Squares
+1208,12430,15.2 The Difference of Two Squares
+1209,12333,14.4 Addition and Subtraction of Polynomials
+1210,12817,14.6 Simple Factorization of Polynomials
+1211,12777,14.6 Simple Factorization of Polynomials
+1212,13402,29.4 Taxation
+1213,13404,29.4 Taxation
+1214,11523,17.1 Meaning of Linear Equations
+1215,13408,29.4 Taxation
+1216,13417,29.4 Taxation
+1217,11520,17.1 Meaning of Linear Equations
+1218,11521,17.1 Meaning of Linear Equations
+1219,11836,17.1 Meaning of Linear Equations
+1220,13421,29.4 Taxation
+1221,13342,29.4 Taxation
+1222,19543,20.1 Angles of Triangles
+1223,12758,27.4 Conversions between Numbers of Different Numberal Systems
+1224,12753,27.4 Conversions between Numbers of Different Numberal Systems
+1225,19603,20.1 Angles of Triangles
+1226,19542,20.1 Angles of Triangles
+1227,12741,27.4 Conversions between Numbers of Different Numberal Systems
+1228,19533,20.1 Angles of Triangles
+1229,19541,20.1 Angles of Triangles
+1230,13597,29.2 Increasing/Decreasing at a Constant Rate
+1231,13613,29.2 Increasing/Decreasing at a Constant Rate
+1232,15350,17.5 Application of Simultaneous Linear Equaitons
+1233,15355,17.5 Application of Simultaneous Linear Equaitons
+1234,15356,17.5 Application of Simultaneous Linear Equaitons
+1235,14503,32.1 Introduction to Measures of Central Tendency
+1236,14505,32.1 Introduction to Measures of Central Tendency
+1237,14519,32.1 Introduction to Measures of Central Tendency
+1238,14550,32.1 Introduction to Measures of Central Tendency
+1239,14548,32.1 Introduction to Measures of Central Tendency
+1240,12692,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1241,14547,32.1 Introduction to Measures of Central Tendency
+1242,14544,32.1 Introduction to Measures of Central Tendency
+1243,14541,32.1 Introduction to Measures of Central Tendency
+1244,14536,32.1 Introduction to Measures of Central Tendency
+1245,14532,32.1 Introduction to Measures of Central Tendency
+1246,14518,32.1 Introduction to Measures of Central Tendency
+1247,14515,32.1 Introduction to Measures of Central Tendency
+1248,14555,32.1 Introduction to Measures of Central Tendency
+1249,20310,20.2 Angles of  Polygons
+1250,20311,20.2 Angles of  Polygons
+1251,20312,20.2 Angles of  Polygons
+1252,14554,32.1 Introduction to Measures of Central Tendency
+1253,14551,32.1 Introduction to Measures of Central Tendency
+1254,14530,32.1 Introduction to Measures of Central Tendency
+1255,14526,32.1 Introduction to Measures of Central Tendency
+1256,20336,20.2 Angles of  Polygons
+1257,20337,20.2 Angles of  Polygons
+1258,20338,20.2 Angles of  Polygons
+1259,14512,32.1 Introduction to Measures of Central Tendency
+1260,20335,20.2 Angles of  Polygons
+1261,14511,32.1 Introduction to Measures of Central Tendency
+1262,14531,32.1 Introduction to Measures of Central Tendency
+1263,14508,32.1 Introduction to Measures of Central Tendency
+1264,14521,32.1 Introduction to Measures of Central Tendency
+1265,14523,32.1 Introduction to Measures of Central Tendency
+1266,14500,32.1 Introduction to Measures of Central Tendency
+1267,14501,32.1 Introduction to Measures of Central Tendency
+1268,14502,32.1 Introduction to Measures of Central Tendency
+1269,14504,32.1 Introduction to Measures of Central Tendency
+1270,14506,32.1 Introduction to Measures of Central Tendency
+1271,14507,32.1 Introduction to Measures of Central Tendency
+1272,15071,36.1 Pyramids
+1273,15074,36.1 Pyramids
+1274,15076,36.1 Pyramids
+1275,15070,36.1 Pyramids
+1276,15072,36.1 Pyramids
+1277,15073,36.1 Pyramids
+1278,15075,36.1 Pyramids
+1279,15115,36.1 Pyramids
+1280,15081,36.1 Pyramids
+1281,15083,36.1 Pyramids
+1282,15089,36.1 Pyramids
+1283,19591,20.1 Angles of Triangles
+1284,19590,20.1 Angles of Triangles
+1285,14318,6.3 3-D Figures
+1286,15530,27.2 Scientific Notation
+1287,14290,6.3 3-D Figures
+1288,14232,6.3 3-D Figures
+1289,19599,20.1 Angles of Triangles
+1290,14326,6.3 3-D Figures
+1291,19545,20.1 Angles of Triangles
+1292,19534,20.1 Angles of Triangles
+1293,12847,14.5 Multiplication of Polynomials
+1294,20306,20.2 Angles of  Polygons
+1295,15708,26.3 Factorization Using Other Identities
+1296,20331,20.2 Angles of  Polygons
+1297,20216,22.1 Pythagoras' Theorem
+1298,20210,22.1 Pythagoras' Theorem
+1299,20211,22.1 Pythagoras' Theorem
+1300,19594,20.1 Angles of Triangles
+1301,19607,20.1 Angles of Triangles
+1302,12148,2.1 Introduction to Algebra
+1303,20228,22.1 Pythagoras' Theorem
+1304,22043,23.1 Introduction to Trigonometric Ratios
+1305,20229,22.1 Pythagoras' Theorem
+1306,15528,27.2 Scientific Notation
+1307,12796,14.6 Simple Factorization of Polynomials
+1308,22044,23.1 Introduction to Trigonometric Ratios
+1309,22045,23.1 Introduction to Trigonometric Ratios
+1310,13325,29.3 More about Percentage Changes
+1311,14753,33.2 Special Lines in triangles
+1312,12185,15.1 Meaning of Identities
+1313,13340,29.3 More about Percentage Changes
+1314,13336,29.3 More about Percentage Changes
+1315,13335,29.3 More about Percentage Changes
+1316,13332,29.3 More about Percentage Changes
+1317,14215,33.3 Triangle Inequality
+1318,13331,29.3 More about Percentage Changes
+1319,14193,33.3 Triangle Inequality
+1320,12635,27.3 Different Numeral Systems
+1321,15311,36.4 Similar Figures
+1322,15301,36.4 Similar Figures
+1323,15304,36.4 Similar Figures
+1324,15300,36.4 Similar Figures
+1325,15297,36.4 Similar Figures
+1326,15296,36.4 Similar Figures
+1327,15293,36.4 Similar Figures
+1328,15291,36.4 Similar Figures
+1329,15264,36.4 Similar Figures
+1330,15250,36.3 Spheres
+1331,15251,36.3 Spheres
+1332,20308,20.2 Angles of  Polygons
+1333,15252,36.3 Spheres
+1334,15253,36.3 Spheres
+1335,20330,20.2 Angles of  Polygons
+1336,15254,36.3 Spheres
+1337,20307,20.2 Angles of  Polygons
+1338,12099,16.1 Simple Algebraic Fractions
+1339,15199,36.3 Spheres
+1340,20304,20.2 Angles of  Polygons
+1341,15256,36.3 Spheres
+1342,13117,26.2 Factorization Using Cross-method
+1343,15202,36.3 Spheres
+1344,13114,26.2 Factorization Using Cross-method
+1345,12013,16.3 Change of  Subject of a Formula
+1346,15257,36.3 Spheres
+1347,11512,27.1 Zero and Negative Integral Indices
+1348,15258,36.3 Spheres
+1349,20333,20.2 Angles of  Polygons
+1350,15203,36.3 Spheres
+1351,15529,27.2 Scientific Notation
+1352,15259,36.3 Spheres
+1353,20341,20.2 Angles of  Polygons
+1354,15204,36.3 Spheres
+1355,12180,15.1 Meaning of Identities
+1356,15260,36.3 Spheres
+1357,15248,36.3 Spheres
+1358,15263,36.4 Similar Figures
+1359,20345,20.2 Angles of  Polygons
+1360,14625,9.1 Symmetry
+1361,14558,9.1 Symmetry
+1362,12506,33.1 Use Deductive Geometry in Solving Triangle Problems
+1363,12644,27.3 Different Numeral Systems
+1364,12507,33.1 Use Deductive Geometry in Solving Triangle Problems
+1365,12641,27.3 Different Numeral Systems
+1366,12638,27.3 Different Numeral Systems
+1367,14168,33.3 Triangle Inequality
+1368,14174,33.3 Triangle Inequality
+1369,11507,27.1 Zero and Negative Integral Indices
+1370,13484,29.2 Increasing/Decreasing at a Constant Rate
+1371,11510,27.1 Zero and Negative Integral Indices
+1372,21847,22.2 Converse of Pythagoras' Theorem
+1373,21848,22.2 Converse of Pythagoras' Theorem
+1374,21850,22.2 Converse of Pythagoras' Theorem
+1375,14460,14.2 Laws of Indices
+1376,21849,22.2 Converse of Pythagoras' Theorem
+1377,21851,22.2 Converse of Pythagoras' Theorem
+1378,15270,36.4 Similar Figures
+1379,11694,5.2 Estimating Measurement
+1380,12069,16.1 Simple Algebraic Fractions
+1381,15279,36.4 Similar Figures
+1382,11699,5.2 Estimating Measurement
+1383,11717,5.2 Estimating Measurement
+1384,14559,32.4 Effects of Changing Data on Central Tendency
+1385,14561,32.4 Effects of Changing Data on Central Tendency
+1386,15265,36.4 Similar Figures
+1387,11709,5.2 Estimating Measurement
+1388,11706,5.2 Estimating Measurement
+1389,11708,5.2 Estimating Measurement
+1390,15281,36.4 Similar Figures
+1391,11707,5.2 Estimating Measurement
+1392,15294,36.4 Similar Figures
+1393,11723,5.2 Estimating Measurement
+1394,15266,36.4 Similar Figures
+1395,15185,36.2 Cones
+1396,11704,5.2 Estimating Measurement
+1397,11719,5.2 Estimating Measurement
+1398,22047,23.1 Introduction to Trigonometric Ratios
+1399,15183,36.2 Cones
+1400,15179,36.2 Cones
+1401,15176,36.2 Cones
+1402,15173,36.2 Cones
+1403,14650,33.2 Special Lines in triangles
+1404,14954,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+1405,14035,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1406,14053,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1407,14569,33.2 Special Lines in triangles
+1408,15145,36.2 Cones
+1409,12544,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1410,15124,36.2 Cones
+1411,13449,29.4 Taxation
+1412,12342,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1413,12350,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1414,12354,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1415,12357,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1416,12360,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1417,12362,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1418,12364,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1419,12368,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1420,12373,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1421,12378,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1422,12383,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1423,12387,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1424,12522,19.1 Organization of Continuous Data
+1425,11683,19.2 Presentation of Continuous Data
+1426,11689,19.2 Presentation of Continuous Data
+1427,12299,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1428,11696,19.2 Presentation of Continuous Data
+1429,11705,19.2 Presentation of Continuous Data
+1430,11710,19.2 Presentation of Continuous Data
+1431,11711,19.2 Presentation of Continuous Data
+1432,11742,19.2 Presentation of Continuous Data
+1433,11767,19.2 Presentation of Continuous Data
+1434,11773,19.2 Presentation of Continuous Data
+1435,11809,19.2 Presentation of Continuous Data
+1436,11972,16.2 Formulas and Subsitution
+1437,12571,19.1 Organization of Continuous Data
+1438,12561,19.1 Organization of Continuous Data
+1439,12539,19.1 Organization of Continuous Data
+1440,12764,27.3 Different Numeral Systems
+1441,12622,27.3 Different Numeral Systems
+1442,12632,27.3 Different Numeral Systems
+1443,13330,29.3 More about Percentage Changes
+1444,15484,35.3 Further Knowledge on 2-D Representations of 3-D Objects
+1445,15077,36.1 Pyramids
+1446,15078,36.1 Pyramids
+1447,15079,36.1 Pyramids
+1448,12347,14.4 Addition and Subtraction of Polynomials
+1449,12344,14.4 Addition and Subtraction of Polynomials
+1450,14652,33.2 Special Lines in triangles
+1451,14804,33.2 Special Lines in triangles
+1452,14697,33.2 Special Lines in triangles
+1453,14943,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+1454,12671,27.3 Different Numeral Systems
+1455,14936,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+1456,14920,"35.4 Points, Straight Lines and Planes of 3-D Figures"
+1457,13903,28.2 Surds
+1458,15285,36.4 Similar Figures
+1459,15267,36.4 Similar Figures
+1460,12816,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1461,14045,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1462,14020,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1463,14009,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1464,13987,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1465,13736,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1466,14000,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1467,13994,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1468,13975,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1469,13972,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1470,13704,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1471,13582,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1472,13667,30.1 Basic Properties of Inequalities and Solutions of Inequalities
+1473,12526,19.1 Organization of Continuous Data
+1474,12512,19.1 Organization of Continuous Data
+1475,12532,19.1 Organization of Continuous Data
+1476,12545,19.1 Organization of Continuous Data
+1477,12551,19.1 Organization of Continuous Data
+1478,14286,33.3 Triangle Inequality
+1479,15319,30.2 Linear Inequalities in One Unknown
+1480,15323,30.2 Linear Inequalities in One Unknown
+1481,15325,30.2 Linear Inequalities in One Unknown
+1482,22046,23.1 Introduction to Trigonometric Ratios
+1483,22048,23.1 Introduction to Trigonometric Ratios
+1484,22049,23.1 Introduction to Trigonometric Ratios
+1485,22050,23.1 Introduction to Trigonometric Ratios
+1486,22051,23.1 Introduction to Trigonometric Ratios
+1487,22052,23.1 Introduction to Trigonometric Ratios
+1488,15205,36.3 Spheres
+1489,12654,29.1 Compund Interest
+1490,15161,36.2 Cones
+1491,15171,36.2 Cones
+1492,12219,15.1 Meaning of Identities
+1493,11957,16.2 Formulas and Subsitution
+1494,12755,29.3 More about Percentage Changes
+1495,11965,16.2 Formulas and Subsitution
+1496,12600,29.1 Compund Interest
+1497,12649,29.1 Compund Interest
+1498,12608,29.1 Compund Interest
+1499,12616,29.1 Compund Interest
+1500,12617,29.1 Compund Interest
+1501,12681,29.1 Compund Interest
+1502,15327,30.2 Linear Inequalities in One Unknown
+1503,12085,16.1 Simple Algebraic Fractions
+1504,19544,20.1 Angles of Triangles
+1505,14454,14.2 Laws of Indices
+1506,14458,14.2 Laws of Indices
+1507,11959,16.2 Formulas and Subsitution
+1508,11960,16.2 Formulas and Subsitution
+1509,11961,16.2 Formulas and Subsitution
+1510,11951,16.2 Formulas and Subsitution
+1511,15080,36.1 Pyramids
+1512,15085,36.1 Pyramids
+1513,15090,36.1 Pyramids
+1514,14583,33.2 Special Lines in triangles
+1515,14610,33.2 Special Lines in triangles
+1516,14592,33.2 Special Lines in triangles
+1517,14671,32.3 Weighed Means
+1518,12550,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1519,12611,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1520,12629,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1521,12599,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1522,12086,16.1 Simple Algebraic Fractions
+1523,12088,16.1 Simple Algebraic Fractions
+1524,12087,16.1 Simple Algebraic Fractions
+1525,12848,14.5 Multiplication of Polynomials
+1526,12558,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1527,12604,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1528,12079,16.1 Simple Algebraic Fractions
+1529,12080,16.1 Simple Algebraic Fractions
+1530,12081,16.1 Simple Algebraic Fractions
+1531,12082,16.1 Simple Algebraic Fractions
+1532,12418,15.2 The Difference of Two Squares
+1533,12420,15.2 The Difference of Two Squares
+1534,12083,16.1 Simple Algebraic Fractions
+1535,12421,15.2 The Difference of Two Squares
+1536,11946,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1537,12216,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1538,11944,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1539,11947,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1540,11948,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1541,12187,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1542,12265,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1543,12432,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1544,12366,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1545,12336,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1546,12281,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1547,12334,14.4 Addition and Subtraction of Polynomials
+1548,11518,17.1 Meaning of Linear Equations
+1549,11519,17.1 Meaning of Linear Equations
+1550,12078,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1551,12286,17.3 Solving Simultaneous Linear Equations by Method of Substitution
+1552,11964,16.2 Formulas and Subsitution
+1553,11971,16.2 Formulas and Subsitution
+1554,15357,17.5 Application of Simultaneous Linear Equaitons
+1555,15547,17.5 Application of Simultaneous Linear Equaitons
+1556,15541,17.5 Application of Simultaneous Linear Equaitons
+1557,15542,17.5 Application of Simultaneous Linear Equaitons
+1558,14683,32.3 Weighed Means
+1559,23871,31.1 Introduction of Probability
+1560,23872,31.1 Introduction of Probability
+1561,23878,31.1 Introduction of Probability
+1562,23875,31.1 Introduction of Probability
+1563,23877,31.1 Introduction of Probability
+1564,23873,31.1 Introduction of Probability
+1565,23910,31.1 Introduction of Probability
+1566,23914,31.1 Introduction of Probability
+1567,23928,31.1 Introduction of Probability
+1568,23932,31.1 Introduction of Probability
+1569,23955,31.1 Introduction of Probability
+1570,23956,31.1 Introduction of Probability
+1571,12225,17.2 Solving Simultaneous Linear Equations by Graphical Method
+1572,12244,15.1 Meaning of Identities
+1573,12195,15.1 Meaning of Identities
+1574,12242,15.1 Meaning of Identities
+1575,12228,15.1 Meaning of Identities
+1576,12236,15.1 Meaning of Identities
+1577,12264,15.1 Meaning of Identities
+1578,11457,15.3 The Perfect Square Identities
+1579,11458,15.3 The Perfect Square Identities
+1580,14227,6.3 3-D Figures
+1581,20956,10.1 Angles Relating to Intersecting Lines
+1582,20946,10.1 Angles Relating to Intersecting Lines
+1583,20973,10.1 Angles Relating to Intersecting Lines
+1584,20966,10.1 Angles Relating to Intersecting Lines
+1585,20950,10.1 Angles Relating to Intersecting Lines
+1586,20995,10.2 Angles Relating to Parallel Lines
+1587,12190,2.1 Introduction to Algebra
+1588,12204,2.1 Introduction to Algebra
+1589,12328,12.1 Collection and Classification of Data
+1590,12339,12.1 Collection and Classification of Data
+1591,20947,10.1 Angles Relating to Intersecting Lines
+1592,20952,10.1 Angles Relating to Intersecting Lines
+1593,19306,8.1 Rectangular Coordinates
+1594,19307,8.1 Rectangular Coordinates
+1595,12348,12.1 Collection and Classification of Data
+1596,12656,12.1 Collection and Classification of Data
+1597,19309,8.1 Rectangular Coordinates
+1598,20974,10.1 Angles Relating to Intersecting Lines
+1599,19310,8.1 Rectangular Coordinates
+1600,19311,8.1 Rectangular Coordinates
+1601,12665,12.1 Collection and Classification of Data
+1602,20967,10.1 Angles Relating to Intersecting Lines
+1603,12580,12.1 Collection and Classification of Data
+1604,15673,9.3 Effects of Transformations on Coordinates
+1605,12660,12.1 Collection and Classification of Data
+1606,12567,12.1 Collection and Classification of Data
+1607,19324,8.1 Rectangular Coordinates
+1608,12540,12.1 Collection and Classification of Data
+1609,20944,10.1 Angles Relating to Intersecting Lines
+1610,11419,2.2 Algebraic Equations in One Unknown
+1611,19325,8.1 Rectangular Coordinates
+1612,19326,8.1 Rectangular Coordinates
+1613,19327,8.1 Rectangular Coordinates
+1614,21085,10.3 Conditions for Parallel Lines
+1615,19329,8.1 Rectangular Coordinates
+1616,21096,10.3 Conditions for Parallel Lines
+1617,21082,10.3 Conditions for Parallel Lines
+1618,12361,12.1 Collection and Classification of Data
+1619,21098,10.3 Conditions for Parallel Lines
+1620,21095,10.3 Conditions for Parallel Lines
+1621,12359,12.1 Collection and Classification of Data
+1622,12552,12.1 Collection and Classification of Data
+1623,12471,12.1 Collection and Classification of Data
+1624,19312,8.1 Rectangular Coordinates
+1625,12467,12.1 Collection and Classification of Data
+1626,19314,8.1 Rectangular Coordinates
+1627,19315,8.1 Rectangular Coordinates
+1628,11572,3.2 Percentage Change
+1629,15553,7.2 Prism
+1630,15488,7.2 Prism
+1631,15468,7.2 Prism
+1632,13407,12.2 Organization of Discrete Data
+1633,13369,12.2 Organization of Discrete Data
+1634,12609,12.2 Organization of Discrete Data
+1635,15668,9.3 Effects of Transformations on Coordinates
+1636,12307,5.1 Estimating Numbers
+1637,12312,5.1 Estimating Numbers
+1638,12316,5.1 Estimating Numbers
+1639,20948,10.1 Angles Relating to Intersecting Lines
+1640,12263,5.1 Estimating Numbers
+1641,12269,5.1 Estimating Numbers
+1642,14281,6.3 3-D Figures
+1643,12340,5.1 Estimating Numbers
+1644,12304,5.1 Estimating Numbers
+1645,14213,6.3 3-D Figures
+1646,12255,5.1 Estimating Numbers
+1647,12257,5.1 Estimating Numbers
+1648,12260,5.1 Estimating Numbers
+1649,14323,6.3 3-D Figures
+1650,14316,6.3 3-D Figures
+1651,14245,6.3 3-D Figures
+1652,20953,10.1 Angles Relating to Intersecting Lines
+1653,19316,8.1 Rectangular Coordinates
+1654,19318,8.1 Rectangular Coordinates
+1655,19330,8.1 Rectangular Coordinates
+1656,12250,5.1 Estimating Numbers
+1657,15512,7.2 Prism
+1658,12146,2.1 Introduction to Algebra
+1659,12157,2.1 Introduction to Algebra
+1660,19492,8.3 Area of a Plane Figure
+1661,21393,8.3 Area of a Plane Figure
+1662,12325,5.1 Estimating Numbers
+1663,21438,8.3 Area of a Plane Figure
+1664,21440,8.3 Area of a Plane Figure
+1665,21442,8.3 Area of a Plane Figure
+1666,21443,8.3 Area of a Plane Figure
+1667,15424,7.2 Prism
+1668,21445,8.3 Area of a Plane Figure
+1669,12557,12.1 Collection and Classification of Data
+1670,19489,8.3 Area of a Plane Figure
+1671,12646,12.1 Collection and Classification of Data
+1672,12659,12.1 Collection and Classification of Data
+1673,21404,8.3 Area of a Plane Figure
+1674,21055,10.3 Conditions for Parallel Lines
+1675,15516,7.2 Prism
+1676,14975,7.2 Prism
+1677,14921,7.2 Prism
+1678,13703,6.1 Basic Geometric Knowledge
+1679,13961,6.1 Basic Geometric Knowledge
+1680,13720,6.1 Basic Geometric Knowledge
+1681,13740,6.1 Basic Geometric Knowledge
+1682,13658,6.1 Basic Geometric Knowledge
+1683,13654,6.1 Basic Geometric Knowledge
+1684,20993,10.2 Angles Relating to Parallel Lines
+1685,21022,10.2 Angles Relating to Parallel Lines
+1686,21029,10.2 Angles Relating to Parallel Lines
+1687,21039,10.2 Angles Relating to Parallel Lines
+1688,21028,10.2 Angles Relating to Parallel Lines
+1689,21086,10.3 Conditions for Parallel Lines
+1690,21093,10.3 Conditions for Parallel Lines
+1691,20958,10.1 Angles Relating to Intersecting Lines
+1692,12353,12.1 Collection and Classification of Data
+1693,12465,12.1 Collection and Classification of Data
+1694,12298,12.1 Collection and Classification of Data
+1695,21020,10.2 Angles Relating to Parallel Lines
+1696,21040,10.2 Angles Relating to Parallel Lines
+1697,11549,3.1 Simple Problems Involving Percentages
+1698,21087,10.3 Conditions for Parallel Lines
+1699,21092,10.3 Conditions for Parallel Lines
+1700,21084,10.3 Conditions for Parallel Lines
+1701,21052,10.3 Conditions for Parallel Lines
+1702,20994,10.2 Angles Relating to Parallel Lines
+1703,20991,10.2 Angles Relating to Parallel Lines
+1704,21056,10.3 Conditions for Parallel Lines
+1705,20996,10.2 Angles Relating to Parallel Lines
+1706,21057,10.3 Conditions for Parallel Lines
+1707,21034,10.2 Angles Relating to Parallel Lines
+1708,21058,10.3 Conditions for Parallel Lines
+1709,14284,6.3 3-D Figures
+1710,14223,6.3 3-D Figures
+1711,21110,10.3 Conditions for Parallel Lines
+1712,21105,10.3 Conditions for Parallel Lines
+1713,14265,6.3 3-D Figures
+1714,20997,10.2 Angles Relating to Parallel Lines
+1715,21100,10.3 Conditions for Parallel Lines
+1716,20945,10.1 Angles Relating to Intersecting Lines
+1717,15500,7.2 Prism
+1718,21107,10.3 Conditions for Parallel Lines
+1719,12209,2.1 Introduction to Algebra
+1720,12556,12.1 Collection and Classification of Data
+1721,12462,12.1 Collection and Classification of Data
+1722,12575,12.1 Collection and Classification of Data
+1723,21094,10.3 Conditions for Parallel Lines
+1724,12566,12.1 Collection and Classification of Data
+1725,12351,12.1 Collection and Classification of Data
+1726,20990,10.2 Angles Relating to Parallel Lines
+1727,20999,10.2 Angles Relating to Parallel Lines
+1728,13516,12.2 Organization of Discrete Data
+1729,13418,12.2 Organization of Discrete Data
+1730,13361,12.3 Presentation and Analysis of Discrete Data
+1731,13473,12.2 Organization of Discrete Data
+1732,13364,12.3 Presentation and Analysis of Discrete Data
+1733,13391,12.2 Organization of Discrete Data
+1734,13456,12.2 Organization of Discrete Data
+1735,15058,9.3 Effects of Transformations on Coordinates
+1736,14225,9.2 Transformation
+1737,11516,3.1 Simple Problems Involving Percentages
+1738,11542,3.1 Simple Problems Involving Percentages
+1739,19366,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1740,13458,12.3 Presentation and Analysis of Discrete Data
+1741,14184,12.3 Presentation and Analysis of Discrete Data
+1742,19367,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1743,13584,12.3 Presentation and Analysis of Discrete Data
+1744,19369,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1745,11923,1.3 Multiplication and Division of Directed Numbers
+1746,20549,8.4 Polar Coordinates
+1747,20047,8.4 Polar Coordinates
+1748,13735,6.1 Basic Geometric Knowledge
+1749,13710,6.1 Basic Geometric Knowledge
+1750,20957,10.1 Angles Relating to Intersecting Lines
+1751,20970,10.1 Angles Relating to Intersecting Lines
+1752,11929,1.3 Multiplication and Division of Directed Numbers
+1753,11537,3.1 Simple Problems Involving Percentages
+1754,11539,3.1 Simple Problems Involving Percentages
+1755,11541,3.1 Simple Problems Involving Percentages
+1756,11544,3.1 Simple Problems Involving Percentages
+1757,11546,3.1 Simple Problems Involving Percentages
+1758,11775,3.4 Discount
+1759,11727,3.3 Profit and Loss
+1760,19487,8.3 Area of a Plane Figure
+1761,19488,8.3 Area of a Plane Figure
+1762,20949,10.1 Angles Relating to Intersecting Lines
+1763,20964,10.1 Angles Relating to Intersecting Lines
+1764,11552,3.1 Simple Problems Involving Percentages
+1765,11553,3.1 Simple Problems Involving Percentages
+1766,20969,10.1 Angles Relating to Intersecting Lines
+1767,12161,2.1 Introduction to Algebra
+1768,11550,3.1 Simple Problems Involving Percentages
+1769,20972,10.1 Angles Relating to Intersecting Lines
+1770,12163,2.1 Introduction to Algebra
+1771,11548,3.1 Simple Problems Involving Percentages
+1772,19331,8.1 Rectangular Coordinates
+1773,13329,12.3 Presentation and Analysis of Discrete Data
+1774,12206,2.1 Introduction to Algebra
+1775,11400,2.2 Algebraic Equations in One Unknown
+1776,19332,8.1 Rectangular Coordinates
+1777,11536,3.1 Simple Problems Involving Percentages
+1778,19333,8.1 Rectangular Coordinates
+1779,11924,1.3 Multiplication and Division of Directed Numbers
+1780,11570,3.2 Percentage Change
+1781,19335,8.1 Rectangular Coordinates
+1782,20998,10.2 Angles Relating to Parallel Lines
+1783,11585,3.2 Percentage Change
+1784,19319,8.1 Rectangular Coordinates
+1785,11571,3.2 Percentage Change
+1786,15472,7.2 Prism
+1787,19320,8.1 Rectangular Coordinates
+1788,11574,3.2 Percentage Change
+1789,19346,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1790,19347,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1791,19348,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1792,19321,8.1 Rectangular Coordinates
+1793,11563,3.2 Percentage Change
+1794,11532,3.1 Simple Problems Involving Percentages
+1795,19485,8.3 Area of a Plane Figure
+1796,21394,8.3 Area of a Plane Figure
+1797,11729,3.3 Profit and Loss
+1798,21017,10.2 Angles Relating to Parallel Lines
+1799,20951,10.1 Angles Relating to Intersecting Lines
+1800,12215,2.1 Introduction to Algebra
+1801,12520,12.2 Organization of Discrete Data
+1802,13451,12.2 Organization of Discrete Data
+1803,13385,12.2 Organization of Discrete Data
+1804,13504,12.2 Organization of Discrete Data
+1805,12549,12.2 Organization of Discrete Data
+1806,12594,12.2 Organization of Discrete Data
+1807,14273,9.2 Transformation
+1808,12562,12.2 Organization of Discrete Data
+1809,12332,5.1 Estimating Numbers
+1810,11932,1.3 Multiplication and Division of Directed Numbers
+1811,12145,4.3 Sequences
+1812,11713,5.2 Estimating Measurement
+1813,11724,5.2 Estimating Measurement
+1814,20961,10.1 Angles Relating to Intersecting Lines
+1815,20963,10.1 Angles Relating to Intersecting Lines
+1816,20968,10.1 Angles Relating to Intersecting Lines
+1817,11422,2.2 Algebraic Equations in One Unknown
+1818,21026,10.2 Angles Relating to Parallel Lines
+1819,13401,12.3 Presentation and Analysis of Discrete Data
+1820,20029,8.4 Polar Coordinates
+1821,20041,8.4 Polar Coordinates
+1822,20042,8.4 Polar Coordinates
+1823,20043,8.4 Polar Coordinates
+1824,20044,8.4 Polar Coordinates
+1825,20045,8.4 Polar Coordinates
+1826,20046,8.4 Polar Coordinates
+1827,20048,8.4 Polar Coordinates
+1828,20050,8.4 Polar Coordinates
+1829,20051,8.4 Polar Coordinates
+1830,20052,8.4 Polar Coordinates
+1831,20053,8.4 Polar Coordinates
+1832,21113,10.3 Conditions for Parallel Lines
+1833,20054,8.4 Polar Coordinates
+1834,13564,12.3 Presentation and Analysis of Discrete Data
+1835,13631,12.3 Presentation and Analysis of Discrete Data
+1836,12276,5.1 Estimating Numbers
+1837,12559,12.1 Collection and Classification of Data
+1838,12296,5.1 Estimating Numbers
+1839,19322,8.1 Rectangular Coordinates
+1840,11515,3.1 Simple Problems Involving Percentages
+1841,11695,5.2 Estimating Measurement
+1842,11697,5.2 Estimating Measurement
+1843,11533,3.1 Simple Problems Involving Percentages
+1844,11722,5.2 Estimating Measurement
+1845,15454,7.2 Prism
+1846,11725,5.2 Estimating Measurement
+1847,11798,3.5 Simple Interest
+1848,15428,7.2 Prism
+1849,11799,3.5 Simple Interest
+1850,19323,8.1 Rectangular Coordinates
+1851,11428,2.3 Application Problems in One Unknown Equations
+1852,11432,2.3 Application Problems in One Unknown Equations
+1853,11452,2.3 Application Problems in One Unknown Equations
+1854,11427,2.3 Application Problems in One Unknown Equations
+1855,11433,2.3 Application Problems in One Unknown Equations
+1856,11437,2.3 Application Problems in One Unknown Equations
+1857,12147,4.3 Sequences
+1858,21019,10.2 Angles Relating to Parallel Lines
+1859,12153,4.3 Sequences
+1860,12469,12.1 Collection and Classification of Data
+1861,12151,4.3 Sequences
+1862,13412,12.3 Presentation and Analysis of Discrete Data
+1863,12193,4.4 Introduction to Functions
+1864,14272,6.3 3-D Figures
+1865,11535,3.1 Simple Problems Involving Percentages
+1866,21021,10.2 Angles Relating to Parallel Lines
+1867,21018,10.2 Angles Relating to Parallel Lines
+1868,14235,6.3 3-D Figures
+1869,21025,10.2 Angles Relating to Parallel Lines
+1870,14189,6.3 3-D Figures
+1871,12335,5.1 Estimating Numbers
+1872,11429,2.3 Application Problems in One Unknown Equations
+1873,12346,5.1 Estimating Numbers
+1874,11701,5.2 Estimating Measurement
+1875,11403,2.2 Algebraic Equations in One Unknown
+1876,11698,5.2 Estimating Measurement
+1877,12283,5.1 Estimating Numbers
+1878,11431,2.3 Application Problems in One Unknown Equations
+1879,20960,10.1 Angles Relating to Intersecting Lines
+1880,11453,2.3 Application Problems in One Unknown Equations
+1881,11430,2.3 Application Problems in One Unknown Equations
+1882,19355,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1883,19363,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1884,19360,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1885,19357,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1886,19356,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1887,19497,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1888,11445,2.3 Application Problems in One Unknown Equations
+1889,11451,2.3 Application Problems in One Unknown Equations
+1890,19359,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1891,11447,2.3 Application Problems in One Unknown Equations
+1892,19375,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1893,11454,2.3 Application Problems in One Unknown Equations
+1894,11434,2.3 Application Problems in One Unknown Equations
+1895,19351,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+1896,12142,4.3 Sequences
+1897,12166,4.3 Sequences
+1898,13776,12.3 Presentation and Analysis of Discrete Data
+1899,11782,3.4 Discount
+1900,13379,12.3 Presentation and Analysis of Discrete Data
+1901,13531,12.3 Presentation and Analysis of Discrete Data
+1902,11764,3.4 Discount
+1903,11766,3.4 Discount
+1904,11669,4.1 Fomulating Inequalities
+1905,11667,4.1 Fomulating Inequalities
+1906,11673,4.1 Fomulating Inequalities
+1907,11678,4.1 Fomulating Inequalities
+1908,11666,4.1 Fomulating Inequalities
+1909,11677,4.1 Fomulating Inequalities
+1910,11674,4.1 Fomulating Inequalities
+1911,19336,8.1 Rectangular Coordinates
+1912,13737,12.3 Presentation and Analysis of Discrete Data
+1913,19338,8.1 Rectangular Coordinates
+1914,19339,8.1 Rectangular Coordinates
+1915,21089,10.3 Conditions for Parallel Lines
+1916,19341,8.1 Rectangular Coordinates
+1917,13763,12.3 Presentation and Analysis of Discrete Data
+1918,14190,12.3 Presentation and Analysis of Discrete Data
+1919,11543,3.1 Simple Problems Involving Percentages
+1920,19343,8.1 Rectangular Coordinates
+1921,11534,3.1 Simple Problems Involving Percentages
+1922,12285,5.1 Estimating Numbers
+1923,11545,3.1 Simple Problems Involving Percentages
+1924,12670,12.2 Organization of Discrete Data
+1925,12173,2.1 Introduction to Algebra
+1926,14147,9.2 Transformation
+1927,11675,4.1 Fomulating Inequalities
+1928,15485,7.2 Prism
+1929,14186,9.2 Transformation
+1930,14233,9.2 Transformation
+1931,11449,2.3 Application Problems in One Unknown Equations
+1932,15504,7.2 Prism
+1933,14329,9.2 Transformation
+1934,14163,9.2 Transformation
+1935,14175,9.2 Transformation
+1936,11795,3.5 Simple Interest
+1937,12184,4.3 Sequences
+1938,12175,4.3 Sequences
+1939,12176,4.3 Sequences
+1940,12183,4.3 Sequences
+1941,12162,4.3 Sequences
+1942,12188,4.3 Sequences
+1943,12164,4.3 Sequences
+1944,12155,4.3 Sequences
+1945,15687,9.3 Effects of Transformations on Coordinates
+1946,15691,9.3 Effects of Transformations on Coordinates
+1947,15689,9.3 Effects of Transformations on Coordinates
+1948,15047,9.3 Effects of Transformations on Coordinates
+1949,15667,9.3 Effects of Transformations on Coordinates
+1950,15666,9.3 Effects of Transformations on Coordinates
+1951,15057,9.3 Effects of Transformations on Coordinates
+1952,15665,9.3 Effects of Transformations on Coordinates
+1953,15692,9.3 Effects of Transformations on Coordinates
+1954,21031,10.2 Angles Relating to Parallel Lines
+1955,21037,10.2 Angles Relating to Parallel Lines
+1956,20971,10.1 Angles Relating to Intersecting Lines
+1957,11438,2.3 Application Problems in One Unknown Equations
+1958,14183,6.3 3-D Figures
+1959,14275,9.2 Transformation
+1960,11790,3.4 Discount
+1961,14182,9.2 Transformation
+1962,15048,9.3 Effects of Transformations on Coordinates
+1963,15053,9.3 Effects of Transformations on Coordinates
+1964,11426,2.3 Application Problems in One Unknown Equations
+1965,14659,9.3 Effects of Transformations on Coordinates
+1966,12223,2.1 Introduction to Algebra
+1967,15672,9.3 Effects of Transformations on Coordinates
+1968,13341,12.3 Presentation and Analysis of Discrete Data
+1969,15671,9.3 Effects of Transformations on Coordinates
+1970,15670,9.3 Effects of Transformations on Coordinates
+1971,13598,12.3 Presentation and Analysis of Discrete Data
+1972,15669,9.3 Effects of Transformations on Coordinates
+1973,13548,12.3 Presentation and Analysis of Discrete Data
+1974,15664,9.3 Effects of Transformations on Coordinates
+1975,11417,2.2 Algebraic Equations in One Unknown
+1976,14176,12.3 Presentation and Analysis of Discrete Data
+1977,21038,10.2 Angles Relating to Parallel Lines
+1978,13525,12.2 Organization of Discrete Data
+1979,14324,9.2 Transformation
+1980,14301,9.2 Transformation
+1981,14294,9.2 Transformation
+1982,14287,9.2 Transformation
+1983,14221,9.2 Transformation
+1984,14251,9.2 Transformation
+1985,14264,9.2 Transformation
+1986,11693,5.2 Estimating Measurement
+1987,11700,5.2 Estimating Measurement
+1988,11702,5.2 Estimating Measurement
+1989,11703,5.2 Estimating Measurement
+1990,11712,5.2 Estimating Measurement
+1991,11726,5.2 Estimating Measurement
+1992,21027,10.2 Angles Relating to Parallel Lines
+1993,20055,8.4 Polar Coordinates
+1994,19490,8.3 Area of a Plane Figure
+1995,11420,2.2 Algebraic Equations in One Unknown
+1996,11421,2.2 Algebraic Equations in One Unknown
+1997,11423,2.2 Algebraic Equations in One Unknown
+1998,11424,2.2 Algebraic Equations in One Unknown
+1999,11567,3.2 Percentage Change
+2000,11569,3.2 Percentage Change
+2001,11582,3.2 Percentage Change
+2002,11587,3.2 Percentage Change
+2003,11590,3.2 Percentage Change
+2004,11589,3.2 Percentage Change
+2005,14197,9.2 Transformation
+2006,14207,9.2 Transformation
+2007,14257,9.2 Transformation
+2008,12154,2.1 Introduction to Algebra
+2009,12159,2.1 Introduction to Algebra
+2010,11407,2.2 Algebraic Equations in One Unknown
+2011,11401,2.2 Algebraic Equations in One Unknown
+2012,11406,2.2 Algebraic Equations in One Unknown
+2013,11408,2.2 Algebraic Equations in One Unknown
+2014,11435,2.3 Application Problems in One Unknown Equations
+2015,12168,4.3 Sequences
+2016,12189,4.3 Sequences
+2017,12172,4.3 Sequences
+2018,12149,4.3 Sequences
+2019,12192,4.3 Sequences
+2020,11588,3.2 Percentage Change
+2021,21109,10.3 Conditions for Parallel Lines
+2022,21103,10.3 Conditions for Parallel Lines
+2023,13347,12.3 Presentation and Analysis of Discrete Data
+2024,13496,12.3 Presentation and Analysis of Discrete Data
+2025,13434,12.3 Presentation and Analysis of Discrete Data
+2026,12221,2.1 Introduction to Algebra
+2027,11409,2.2 Algebraic Equations in One Unknown
+2028,14846,7.2 Prism
+2029,15526,7.2 Prism
+2030,15543,7.2 Prism
+2031,14946,7.2 Prism
+2032,15386,7.2 Prism
+2033,15416,7.2 Prism
+2034,21097,10.3 Conditions for Parallel Lines
+2035,21101,10.3 Conditions for Parallel Lines
+2036,11771,3.4 Discount
+2037,11770,3.4 Discount
+2038,11769,3.4 Discount
+2039,12165,4.3 Sequences
+2040,21090,10.3 Conditions for Parallel Lines
+2041,11774,3.4 Discount
+2042,11762,3.4 Discount
+2043,21416,8.3 Area of a Plane Figure
+2044,12563,12.1 Collection and Classification of Data
+2045,11528,3.1 Simple Problems Involving Percentages
+2046,11551,3.1 Simple Problems Involving Percentages
+2047,14535,9.2 Transformation
+2048,12266,5.1 Estimating Numbers
+2049,12294,5.1 Estimating Numbers
+2050,12212,2.1 Introduction to Algebra
+2051,12220,2.1 Introduction to Algebra
+2052,14840,7.2 Prism
+2053,11741,3.3 Profit and Loss
+2054,21032,10.2 Angles Relating to Parallel Lines
+2055,12279,5.1 Estimating Numbers
+2056,12289,5.1 Estimating Numbers
+2057,12284,5.1 Estimating Numbers
+2058,12280,5.1 Estimating Numbers
+2059,15690,9.3 Effects of Transformations on Coordinates
+2060,11824,3.5 Simple Interest
+2061,11823,3.5 Simple Interest
+2062,11821,3.5 Simple Interest
+2063,11820,3.5 Simple Interest
+2064,11822,3.5 Simple Interest
+2065,19358,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2066,11665,4.1 Fomulating Inequalities
+2067,11686,4.1 Fomulating Inequalities
+2068,11670,4.1 Fomulating Inequalities
+2069,11672,4.1 Fomulating Inequalities
+2070,11716,5.2 Estimating Measurement
+2071,11728,3.3 Profit and Loss
+2072,20552,8.4 Polar Coordinates
+2073,20554,8.4 Polar Coordinates
+2074,21399,8.3 Area of a Plane Figure
+2075,21402,8.3 Area of a Plane Figure
+2076,11730,3.3 Profit and Loss
+2077,11731,3.3 Profit and Loss
+2078,11732,3.3 Profit and Loss
+2079,13642,6.1 Basic Geometric Knowledge
+2080,11450,2.3 Application Problems in One Unknown Equations
+2081,13699,6.1 Basic Geometric Knowledge
+2082,11448,2.3 Application Problems in One Unknown Equations
+2083,12197,2.1 Introduction to Algebra
+2084,12196,4.4 Introduction to Functions
+2085,12200,4.4 Introduction to Functions
+2086,12208,4.4 Introduction to Functions
+2087,11801,3.5 Simple Interest
+2088,11802,3.5 Simple Interest
+2089,12241,4.4 Introduction to Functions
+2090,21112,10.3 Conditions for Parallel Lines
+2091,11584,3.2 Percentage Change
+2092,11808,3.5 Simple Interest
+2093,11810,3.5 Simple Interest
+2094,12211,4.4 Introduction to Functions
+2095,11811,3.5 Simple Interest
+2096,21111,10.3 Conditions for Parallel Lines
+2097,12238,4.4 Introduction to Functions
+2098,11733,3.3 Profit and Loss
+2099,11749,3.3 Profit and Loss
+2100,12205,4.4 Introduction to Functions
+2101,12232,4.4 Introduction to Functions
+2102,12198,4.4 Introduction to Functions
+2103,11812,3.5 Simple Interest
+2104,12210,4.4 Introduction to Functions
+2105,11814,3.5 Simple Interest
+2106,12214,4.4 Introduction to Functions
+2107,11576,3.2 Percentage Change
+2108,12234,4.4 Introduction to Functions
+2109,12218,4.4 Introduction to Functions
+2110,11661,4.1 Fomulating Inequalities
+2111,11664,4.1 Fomulating Inequalities
+2112,12230,4.4 Introduction to Functions
+2113,12239,4.4 Introduction to Functions
+2114,11740,3.3 Profit and Loss
+2115,11739,3.3 Profit and Loss
+2116,12243,4.4 Introduction to Functions
+2117,12203,4.4 Introduction to Functions
+2118,12213,4.4 Introduction to Functions
+2119,12237,4.4 Introduction to Functions
+2120,12217,4.4 Introduction to Functions
+2121,12202,4.4 Introduction to Functions
+2122,12235,4.4 Introduction to Functions
+2123,20962,10.1 Angles Relating to Intersecting Lines
+2124,12233,4.4 Introduction to Functions
+2125,12227,4.4 Introduction to Functions
+2126,12229,4.4 Introduction to Functions
+2127,12222,4.4 Introduction to Functions
+2128,12226,4.4 Introduction to Functions
+2129,12224,4.4 Introduction to Functions
+2130,12199,4.4 Introduction to Functions
+2131,14298,9.2 Transformation
+2132,20056,8.4 Polar Coordinates
+2133,14509,9.2 Transformation
+2134,14538,9.2 Transformation
+2135,14355,9.2 Transformation
+2136,11761,3.4 Discount
+2137,11763,3.4 Discount
+2138,11784,3.4 Discount
+2139,11788,3.4 Discount
+2140,19349,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2141,20959,10.1 Angles Relating to Intersecting Lines
+2142,19350,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2143,12158,4.3 Sequences
+2144,12160,4.3 Sequences
+2145,15603,7.1 Areas of Simple Polygons
+2146,15602,7.1 Areas of Simple Polygons
+2147,15599,7.1 Areas of Simple Polygons
+2148,14947,7.2 Prism
+2149,13668,6.1 Basic Geometric Knowledge
+2150,13690,6.1 Basic Geometric Knowledge
+2151,15335,7.1 Areas of Simple Polygons
+2152,11737,3.3 Profit and Loss
+2153,15507,7.1 Areas of Simple Polygons
+2154,11738,3.3 Profit and Loss
+2155,15598,7.1 Areas of Simple Polygons
+2156,15288,7.1 Areas of Simple Polygons
+2157,11757,3.3 Profit and Loss
+2158,11561,3.2 Percentage Change
+2159,13636,6.1 Basic Geometric Knowledge
+2160,11562,3.2 Percentage Change
+2161,13685,6.1 Basic Geometric Knowledge
+2162,11564,3.2 Percentage Change
+2163,11734,3.3 Profit and Loss
+2164,11735,3.3 Profit and Loss
+2165,11743,3.3 Profit and Loss
+2166,11736,3.3 Profit and Loss
+2167,11692,4.1 Fomulating Inequalities
+2168,15178,7.1 Areas of Simple Polygons
+2169,15261,7.1 Areas of Simple Polygons
+2170,15556,7.1 Areas of Simple Polygons
+2171,14815,7.1 Areas of Simple Polygons
+2172,14890,7.1 Areas of Simple Polygons
+2173,11789,3.4 Discount
+2174,15476,7.1 Areas of Simple Polygons
+2175,12473,12.1 Collection and Classification of Data
+2176,12537,12.1 Collection and Classification of Data
+2177,12231,2.1 Introduction to Algebra
+2178,14878,7.2 Prism
+2179,14552,9.2 Transformation
+2180,15555,7.1 Areas of Simple Polygons
+2181,20992,10.2 Angles Relating to Parallel Lines
+2182,13343,12.2 Organization of Discrete Data
+2183,13333,12.2 Organization of Discrete Data
+2184,12626,12.2 Organization of Discrete Data
+2185,11436,2.3 Application Problems in One Unknown Equations
+2186,14828,7.1 Areas of Simple Polygons
+2187,14944,7.1 Areas of Simple Polygons
+2188,19500,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2189,15518,7.1 Areas of Simple Polygons
+2190,20553,8.4 Polar Coordinates
+2191,12186,4.3 Sequences
+2192,12178,4.3 Sequences
+2193,15298,7.1 Areas of Simple Polygons
+2194,15316,7.1 Areas of Simple Polygons
+2195,11439,2.3 Application Problems in One Unknown Equations
+2196,23884,31.1 Introduction of Probability
+2197,23898,31.1 Introduction of Probability
+2198,23954,31.1 Introduction of Probability
+2199,23946,31.1 Introduction of Probability
+2200,23964,31.1 Introduction of Probability
+2201,23880,31.1 Introduction of Probability
+2202,23903,31.1 Introduction of Probability
+2203,23953,31.1 Introduction of Probability
+2204,23963,31.1 Introduction of Probability
+2205,23958,31.1 Introduction of Probability
+2206,23962,31.1 Introduction of Probability
+2207,23938,31.1 Introduction of Probability
+2208,23957,31.1 Introduction of Probability
+2209,23951,31.1 Introduction of Probability
+2210,23959,31.1 Introduction of Probability
+2211,23961,31.1 Introduction of Probability
+2212,23960,31.1 Introduction of Probability
+2213,23888,31.1 Introduction of Probability
+2214,24236,31.3 More about Probability
+2215,24250,31.3 More about Probability
+2216,24291,31.3 More about Probability
+2217,24319,31.3 More about Probability
+2218,24251,31.3 More about Probability
+2219,24316,31.3 More about Probability
+2220,24261,31.3 More about Probability
+2221,24275,31.3 More about Probability
+2222,24240,31.3 More about Probability
+2223,12182,4.3 Sequences
+2224,12277,5.1 Estimating Numbers
+2225,14347,9.2 Transformation
+2226,11671,4.1 Fomulating Inequalities
+2227,19484,8.3 Area of a Plane Figure
+2228,21418,8.3 Area of a Plane Figure
+2229,21421,8.3 Area of a Plane Figure
+2230,14885,7.2 Prism
+2231,13645,6.1 Basic Geometric Knowledge
+2232,19362,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2233,19364,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2234,19365,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2235,19352,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2236,19353,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2237,19354,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2238,19368,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2239,19370,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2240,11747,3.3 Profit and Loss
+2241,11748,3.3 Profit and Loss
+2242,20558,8.4 Polar Coordinates
+2243,20556,8.4 Polar Coordinates
+2244,20559,8.4 Polar Coordinates
+2245,20561,8.4 Polar Coordinates
+2246,20562,8.4 Polar Coordinates
+2247,11815,3.5 Simple Interest
+2248,14834,7.1 Areas of Simple Polygons
+2249,13715,12.3 Presentation and Analysis of Discrete Data
+2250,12320,5.1 Estimating Numbers
+2251,12170,4.3 Sequences
+2252,15514,7.1 Areas of Simple Polygons
+2253,15491,7.1 Areas of Simple Polygons
+2254,15280,7.1 Areas of Simple Polygons
+2255,19499,8.2 Distances bewteen two Points on a Horizontal or Vertical Line
+2256,12341,14.4 Addition and Subtraction of Polynomials
+2257,12330,14.4 Addition and Subtraction of Polynomials
+2258,15243,7.1 Areas of Simple Polygons
+2259,21841,22.2 Converse of Pythagoras' Theorem
+2260,20217,22.1 Pythagoras' Theorem
+2261,12084,16.1 Simple Algebraic Fractions
+2262,20551,8.4 Polar Coordinates
+2263,20557,8.4 Polar Coordinates
+2264,20555,8.4 Polar Coordinates
+2265,20560,8.4 Polar Coordinates
+2266,20550,8.4 Polar Coordinates
