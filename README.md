@@ -1,5 +1,5 @@
 # Deep-IRT
-This is the repository for the code in the paper *Deep-IRT: Make Deep Learning Based Knowledge Tracing Explainable Using Item Response Theory* ([EDM](https://drive.google.com/file/d/1iSYGeH0l98HMfdOfGVumigxqZMlQ1t78/view), [arVix](https://arxiv.org/abs/1904.11738))
+This is the repository for the code in the paper *Deep-IRT: Make Deep Learning Based Knowledge Tracing Explainable Using Item Response Theory* ([EDM](https://drive.google.com/file/d/1iSYGeH0l98HMfdOfGVumigxqZMlQ1t78/view), [arXiv](https://arxiv.org/abs/1904.11738))
 
 If you find this repository useful, please cite
 ```
