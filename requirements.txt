@@ -22,5 +22,5 @@ tensorboard==1.14.0
 tensorflow==1.15.4
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 wrapt==1.11.2
